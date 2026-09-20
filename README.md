@@ -11,13 +11,13 @@ Real example outputs are already in this repo — see [Quick look](#quick-look-n
 Two commands, no API keys, no config files.
 
 ```
-/plugin marketplace add ./path/to/ESG_Tracking
+/plugin marketplace add AimadeddineHakim/ESG_plugin
 /plugin install esg-tracking@esg-tracking
 ```
 
-(Or, in one step, on Claude Code v2.1.275+: `/plugin install esg-tracking --marketplace ./path/to/ESG_Tracking`.)
+(Or, in one step, on Claude Code v2.1.275+: `/plugin install esg-tracking --marketplace AimadeddineHakim/ESG_plugin`.)
 
-Replace `./path/to/ESG_Tracking` with wherever you've placed this folder relative to where you run the command. If this repo is hosted on GitHub, you can instead run `/plugin marketplace add <owner>/<repo>` — that form works regardless of local path, so prefer it if this project is git-hosted.
+This works from anywhere — it doesn't depend on where you put anything locally. If you're working from a local copy of this repo instead, use `/plugin marketplace add ./path/to/ESG_Tracking` with the relative path to your copy.
 
 There's nothing else to install ahead of time: the one Python dependency this plugin has (for its free web scraper) installs itself automatically the first time it's needed — see [Dependencies](#dependencies) below.
 
