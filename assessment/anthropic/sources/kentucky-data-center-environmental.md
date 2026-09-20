@@ -1,7 +1,7 @@
 ---
-title: Developer says KY data center with Anthropic ties meets new limits on environmental, energy impact
+title: Developer says Ky data center with Anthropic ties meets new limits on environmental, energy impact
 url: https://www.lpm.org/news/2026-08-18/developer-says-ky-data-center-with-anthropic-ties-meets-new-limits-on-environmental-energy-impact
-fetched: 2026-09-20
+fetched: 2026-09-21
 scraper: requests+trafilatura
 ---
 

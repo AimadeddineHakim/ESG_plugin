@@ -1,7 +1,7 @@
 ---
-title: Why Anthropic's ultra-dirty deal shouldn't surprise you at all
+title: Why Anthropic’s ultra-dirty deal shouldn’t surprise you at all
 url: https://ketanjoshi.co/2026/05/13/why-anthropics-ultra-dirty-deal-shouldnt-surprise-you-at-all/
-fetched: 2026-09-20
+fetched: 2026-09-21
 scraper: requests+trafilatura
 ---
 

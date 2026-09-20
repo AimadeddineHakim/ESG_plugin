@@ -1,7 +1,7 @@
 ---
 title: OpenAI data center project sparks outrage among Effingham County residents - The Current
 url: https://thecurrentga.org/2026/07/23/openai-data-center-project-sparks-outrage-among-effingham-county-residents/
-fetched: 2026-09-20
+fetched: 2026-09-21
 scraper: requests+trafilatura
 ---
 

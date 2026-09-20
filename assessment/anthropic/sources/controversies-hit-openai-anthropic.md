@@ -1,7 +1,7 @@
 ---
-title: A string of controversies hits OpenAI, Anthropic
+title: A string of controversies hits OpenAI, Anthropic | Fortune
 url: https://fortune.com/2026/09/10/a-string-of-controversies-hits-openai-anthropic/
-fetched: 2026-09-20
+fetched: 2026-09-21
 scraper: requests+trafilatura
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: The OpenAI Fraud Case Reveals a Broken System. Here's the Fix Nobody's Talking About.
 url: https://www.techbuzz.ai/articles/the-open-ai-fraud-case-reveals-a-broken-system-here-s-the-fix-nobody-s-talking-about
-fetched: 2026-09-20
+fetched: 2026-09-21
 scraper: requests+trafilatura
 ---
 

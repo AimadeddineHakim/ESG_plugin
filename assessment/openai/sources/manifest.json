@@ -1,74 +1,18 @@
 [
-  {
-    "url": "https://carboncredits.com/chatgpt-hits-700m-weekly-users-but-at-what-environmental-cost/",
-    "title": "ChatGPT Hits 700M Weekly Users, But at What Environmental Cost?",
-    "status": "success",
-    "scraper": "requests+trafilatura",
-    "error": null,
-    "report_file": "reports/chatgpt-environmental-cost.md",
-    "source_file": "sources/chatgpt-environmental-cost.md"
-  },
-  {
-    "url": "https://thecurrentga.org/2026/07/23/openai-data-center-project-sparks-outrage-among-effingham-county-residents/",
-    "title": "OpenAI Data Center Project Sparks Outrage Among Effingham County Residents",
-    "status": "success",
-    "scraper": "requests+trafilatura",
-    "error": null,
-    "report_file": "reports/effingham-county-data-center-outrage.md",
-    "source_file": "sources/effingham-county-data-center-outrage.md"
-  },
-  {
-    "url": "https://www.justice.gov/opa/pr/civil-rights-division-secures-settlement-openai-discriminating-against-us-workers",
-    "title": "Civil Rights Division Secures Settlement with OpenAI for Discriminating Against U.S. Workers",
-    "status": "success",
-    "scraper": "requests+trafilatura",
-    "error": null,
-    "report_file": "reports/doj-worker-discrimination-settlement.md",
-    "source_file": "sources/doj-worker-discrimination-settlement.md"
-  },
-  {
-    "url": "https://www.regulatoryoversight.com/2026/08/investigation-into-openai-demonstrates-that-states-are-taking-vanguard-position/",
-    "title": "Investigation Into OpenAI Demonstrates That States Are Taking Vanguard Position",
-    "status": "failed",
-    "scraper": null,
-    "error": "requests+trafilatura: 403 Client Error: Forbidden; jina_reader: 403 Client Error: Forbidden",
-    "report_file": "reports/state-ag-investigations-hugging-face-incident.md",
-    "source_file": null
-  },
-  {
-    "url": "https://fortune.com/2026/09/10/a-string-of-controversies-hits-openai-anthropic/",
-    "title": "A string of controversies hits OpenAI, Anthropic",
-    "status": "success",
-    "scraper": "requests+trafilatura",
-    "error": null,
-    "report_file": "reports/controversies-string-hits-openai-anthropic.md",
-    "source_file": "sources/controversies-string-hits-openai-anthropic.md"
-  },
-  {
-    "url": "https://www.techbuzz.ai/articles/the-open-ai-fraud-case-reveals-a-broken-system-here-s-the-fix-nobody-s-talking-about",
-    "title": "The OpenAI Fraud Case Reveals a Broken System. Here's the Fix Nobody's Talking About.",
-    "status": "success",
-    "scraper": "requests+trafilatura",
-    "error": null,
-    "report_file": "reports/musk-v-altman-fraud-case.md",
-    "source_file": "sources/musk-v-altman-fraud-case.md"
-  },
-  {
-    "url": "https://www.aljazeera.com/news/2026/9/17/openai-reports-more-incidents-of-models-acting-deceptively",
-    "title": "OpenAI reports more incidents of models acting deceptively",
-    "status": "success",
-    "scraper": "requests+trafilatura",
-    "error": null,
-    "report_file": "reports/models-acting-deceptively-report.md",
-    "source_file": "sources/models-acting-deceptively-report.md"
-  },
-  {
-    "url": "https://www.npr.org/2026/09/02/nx-s1-5953021/openai-tumbler-ridge-mass-shooting",
-    "title": "New lawsuits claim OpenAI execs put image ahead of safety in Canadian mass shooting",
-    "status": "success",
-    "scraper": "requests+trafilatura",
-    "error": null,
-    "report_file": "reports/tumbler-ridge-shooting-lawsuits.md",
-    "source_file": "sources/tumbler-ridge-shooting-lawsuits.md"
-  }
+  {"url": "https://carboncredits.com/chatgpt-hits-700m-weekly-users-but-at-what-environmental-cost/", "title": "ChatGPT Hits 700M Weekly Users, But at What Environmental Cost?", "status": "success", "scraper": "requests+trafilatura", "error": null, "report_file": "reports/chatgpt-environmental-cost.md", "source_file": "sources/chatgpt-environmental-cost.md"},
+  {"url": "https://thecurrentga.org/2026/07/23/openai-data-center-project-sparks-outrage-among-effingham-county-residents/", "title": "OpenAI data center project sparks outrage among Effingham County residents", "status": "success", "scraper": "requests+trafilatura", "error": null, "report_file": "reports/effingham-county-data-center-outrage.md", "source_file": "sources/effingham-county-data-center-outrage.md"},
+  {"url": "https://www.justice.gov/opa/pr/civil-rights-division-secures-settlement-openai-discriminating-against-us-workers", "title": "Civil Rights Division Secures Settlement with OpenAI for Discriminating Against U.S. Workers", "status": "success", "scraper": "requests+trafilatura", "error": null, "report_file": "reports/doj-worker-discrimination-settlement.md", "source_file": "sources/doj-worker-discrimination-settlement.md"},
+  {"url": "https://www.regulatoryoversight.com/2026/08/investigation-into-openai-demonstrates-that-states-are-taking-vanguard-position/", "title": "Investigation Into OpenAI Demonstrates That States Are Taking Vanguard Position", "status": "failed", "scraper": null, "error": "requests+trafilatura: 403 Forbidden; jina_reader: 403 Forbidden", "report_file": "reports/state-ag-investigations-hugging-face-incident.md", "source_file": null},
+  {"url": "https://casrai.org/news/openai-september-2026-regulatory-reckoning", "title": "OpenAI's September 2026 Regulatory Reckoning", "status": "success", "scraper": "requests+trafilatura", "error": null, "report_file": "reports/openai-regulatory-reckoning-september-2026.md", "source_file": "sources/openai-regulatory-reckoning-september-2026.md"},
+  {"url": "https://fortune.com/2026/09/10/a-string-of-controversies-hits-openai-anthropic/", "title": "A string of controversies hits OpenAI, Anthropic", "status": "success", "scraper": "requests+trafilatura", "error": null, "report_file": "reports/controversies-string-hits-openai-anthropic.md", "source_file": "sources/controversies-string-hits-openai-anthropic.md"},
+  {"url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/", "title": "What OpenAI's latest controversy tells us about the future of math", "status": "success", "scraper": "requests+trafilatura", "error": null, "report_file": "reports/navier-stokes-controversy-future-of-math.md", "source_file": "sources/navier-stokes-controversy-future-of-math.md"},
+  {"url": "https://www.techbuzz.ai/articles/the-open-ai-fraud-case-reveals-a-broken-system-here-s-the-fix-nobody-s-talking-about", "title": "The OpenAI Fraud Case Reveals a Broken System. Here's the Fix Nobody's Talking About.", "status": "success", "scraper": "requests+trafilatura", "error": null, "report_file": "reports/openai-fraud-case-broken-system.md", "source_file": "sources/openai-fraud-case-broken-system.md"},
+  {"url": "https://time.com/article/2026/05/19/elon-musk-openai-trial-xai-jury-verdict/", "title": "Musk's Failed OpenAI Lawsuit Underscores xAI's Struggles", "status": "failed", "scraper": null, "error": "requests+trafilatura: 406 Not Acceptable; jina_reader: 403 Forbidden", "report_file": "reports/musk-openai-trial-xai-jury-verdict.md", "source_file": null},
+  {"url": "https://www.aljazeera.com/news/2026/9/17/openai-reports-more-incidents-of-models-acting-deceptively", "title": "OpenAI reports more incidents of models acting deceptively", "status": "success", "scraper": "requests+trafilatura", "error": null, "report_file": "reports/models-acting-deceptively-report.md", "source_file": "sources/models-acting-deceptively-report.md"},
+  {"url": "https://www.cp24.com/news/canada/2026/09/18/openai-asks-us-court-to-dismiss-tumbler-ridge-mass-shooting-lawsuits/", "title": "OpenAI asks U.S. court to dismiss Tumbler Ridge mass shooting lawsuits", "status": "success", "scraper": "requests+trafilatura", "error": null, "report_file": "reports/tumbler-ridge-shooting-dismissal-motion.md", "source_file": "sources/tumbler-ridge-shooting-dismissal-motion.md"},
+  {"url": "https://en.wikipedia.org/wiki/Raine_v._OpenAI", "title": "Raine v. OpenAI", "status": "success", "scraper": "requests+trafilatura", "error": null, "report_file": "reports/raine-v-openai-teen-suicide-lawsuit.md", "source_file": "sources/raine-v-openai-teen-suicide-lawsuit.md"},
+  {"url": "https://www.insidetechlaw.com/blog/2026/06/ai-in-litigation-florida-sues-openai-over-chatgpt-safety-concerns", "title": "AI in litigation: Florida sues OpenAI over ChatGPT safety concerns", "status": "success", "scraper": "requests+trafilatura", "error": null, "report_file": "reports/florida-ag-lawsuit-chatgpt-safety.md", "source_file": "sources/florida-ag-lawsuit-chatgpt-safety.md"},
+  {"url": "https://www.aljazeera.com/economy/2026/7/9/nyt-led-group-asks-court-to-sanction-openai-in-us-copyright-dispute", "title": "NYT-led group asks court to sanction OpenAI in US copyright dispute", "status": "success", "scraper": "requests+trafilatura", "error": null, "report_file": "reports/nyt-openai-copyright-sanctions-dispute.md", "source_file": "sources/nyt-openai-copyright-sanctions-dispute.md"},
+  {"url": "https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/", "title": "The backlash over OpenAI's decision to retire GPT-4o shows how dangerous AI companions can be", "status": "success", "scraper": "requests+trafilatura", "error": null, "report_file": "reports/gpt-4o-retirement-backlash.md", "source_file": "sources/gpt-4o-retirement-backlash.md"},
+  {"url": "https://www.techtimes.com/articles/327760/20260920/rubygems-supply-chain-breach-was-never-reported-brussels-under-eu-ai-act-rules.htm", "title": "RubyGems Supply Chain Breach Was Never Reported to Brussels Under EU AI Act Rules", "status": "success", "scraper": "requests+trafilatura", "error": null, "report_file": "reports/rubygems-breach-eu-ai-act-unreported.md", "source_file": "sources/rubygems-breach-eu-ai-act-unreported.md"}
 ]

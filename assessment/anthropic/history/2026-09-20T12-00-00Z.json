@@ -1,0 +1,236 @@
+[
+  {
+    "controversy": "reddit-scraping-lawsuit",
+    "report_files": ["reports/reddit-anthropic-scraping-lawsuit.md"],
+    "source_files": ["sources/reddit-anthropic-scraping-lawsuit.md"],
+    "urls": ["https://www.courthousenews.com/reddit-privacy-case-against-anthropic-kicked-back-to-state-court/"],
+    "core_from": {"reports/reddit-anthropic-scraping-lawsuit.md": "sources"},
+    "gap_fill": {"triggered": false},
+    "assessment": {
+      "Category": "Social",
+      "Pillar": "Customers",
+      "Sub-Pillar": "Privacy & Data Security",
+      "Nature of harm": {"Nature of harm": "Serious", "Details": "Reddit alleges Anthropic scraped user content/personal data via over 100,000 unauthorized server accesses since 2021, breaching contractual/privacy protections and continuing after promising to stop; court found extra elements beyond copyright (trespass, privacy-covenant, misrepresentation) warranting state-court claims."},
+      "Scale of impact": {"Scale of impact": "Extremely Widespread", "Details": "Potentially millions of Reddit users' content/data implicated given years of scraping (since 2021) across the platform, well over the 1,000-person threshold."},
+      "Role of the company": {"Company role": "Direct", "Details": "Anthropic itself allegedly directed the scraping, bypassed technical safeguards, and used the data to train Claude."},
+      "status": {"Status A": "Active", "Status B": "Ongoing", "Details": "Case remanded to CA state court in March 2026; Reddit is still seeking a jury trial, damages, and an injunction — no settlement or remediation yet."},
+      "Severity": "Severe",
+      "Score": 1,
+      "Flag": "Orange Flag"
+    }
+  },
+  {
+    "controversy": "dod-pentagon-dispute",
+    "report_files": ["reports/anthropic-dod-dispute.md"],
+    "source_files": ["sources/anthropic-dod-dispute.md"],
+    "urls": ["https://en.wikipedia.org/wiki/Anthropic%E2%80%93United_States_Department_of_Defense_dispute"],
+    "core_from": {"reports/anthropic-dod-dispute.md": "sources"},
+    "gap_fill": {"triggered": false},
+    "assessment": {
+      "Category": "Governance",
+      "Pillar": "Other",
+      "Nature of harm": {"Nature of harm": "Serious", "Details": "Material financial impact (a ~$200M contract terminated, a Trump-aligned VC firm abandoning a 'hundreds of millions' investment) plus a 'supply chain risk' blacklist designation a federal judge found to be illegal First Amendment retaliation; also includes unresolved, unconfirmed allegations that Claude was used in a U.S./Israel strike on a school in Iran that killed 156 people including 120 children."},
+      "Scale of impact": {"Scale of impact": "Extensive", "Details": "Confined to one G20 country (US) but involves cabinet-level officials (Secretary of Defense, Under Secretary of Defense), the company's CEO, multiple federal courts, and broad military-contracting consequences."},
+      "Role of the company": {"Company role": "Direct", "Details": "Anthropic's own refusal to permit unrestricted military/surveillance use of Claude, and its own litigation against the government, are central to the dispute."},
+      "status": {"Status A": "Active", "Status B": "Partially Concluded", "Details": "Anthropic won a preliminary injunction (March 2026) and a ruling that the blacklisting was illegal (August 2026), but the D.C. Circuit denied a stay and, as of the most recent reporting, DoW contract cancellations and Claude's removal from DoW systems were still proceeding on a 180-day timeline — so meaningful remediation has occurred but the underlying restrictions remain partly in effect."},
+      "Severity": "Severe",
+      "Score": 2,
+      "Flag": "Yellow Flag"
+    }
+  },
+  {
+    "controversy": "bartz-copyright-settlement",
+    "report_files": ["reports/copyright-settlement-1.5b-approved.md"],
+    "source_files": ["sources/copyright-settlement-1.5b-approved.md"],
+    "urls": ["https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/"],
+    "core_from": {"reports/copyright-settlement-1.5b-approved.md": "sources"},
+    "gap_fill": {"triggered": false},
+    "assessment": {
+      "Category": "Governance",
+      "Pillar": "Other",
+      "Nature of harm": {"Nature of harm": "Very Serious", "Details": "Court found Anthropic illegally downloaded and stored millions of copyrighted books from pirate sites; resulted in a $1.5 billion settlement, the largest copyright settlement in U.S. history, exceeding the $1B threshold for the most severe governance harm tier."},
+      "Scale of impact": {"Scale of impact": "Extremely Widespread", "Details": "Settlement covers roughly 500,000 works and their rights holders — far above the 1,000-person threshold, even though confined to the U.S."},
+      "Role of the company": {"Company role": "Direct", "Details": "Anthropic itself downloaded and stored the pirated books used to train its models."},
+      "status": {"Status A": "Active", "Status B": "Concluded", "Details": "Final court approval granted July 2026; $3,000-per-work payouts are being distributed and no appeal is pending since Anthropic settled rather than appeal."},
+      "Severity": "Very Severe",
+      "Score": 2,
+      "Flag": "Yellow Flag"
+    }
+  },
+  {
+    "controversy": "colossus-dirty-energy-deal",
+    "report_files": ["reports/colossus-dirty-energy-deal.md"],
+    "source_files": ["sources/colossus-dirty-energy-deal.md"],
+    "urls": ["https://ketanjoshi.co/2026/05/13/why-anthropics-ultra-dirty-deal-shouldnt-surprise-you-at-all/"],
+    "core_from": {"reports/colossus-dirty-energy-deal.md": "sources"},
+    "gap_fill": {"triggered": false},
+    "assessment": {
+      "Category": "Environmental",
+      "Pillar": "Energy & Climate Change",
+      "Nature of harm": {"Nature of harm": "Serious", "Details": "Anthropic sources compute from xAI's Colossus data center in Memphis, a facility with major, ongoing air pollution and greenhouse-gas emissions, including 500MW of unpermitted gas turbines; harm is significant but potentially remediable (e.g., via cleaner power sourcing). Note: primary source is an independent climate-analyst opinion/analysis piece, not straight news reporting."},
+      "Scale of impact": {"Scale of impact": "Extensive", "Details": "Part of a broader industry pattern (author cites 184 comparable or worse data center projects); regional air-quality and climate impact, not confined to a single small site."},
+      "Role of the company": {"Company role": "Indirect", "Details": "Anthropic is a compute customer/off-taker of a facility it does not own or operate (owned/operated by xAI); it facilitated demand for the dirty power but did not build or run the polluting infrastructure itself."},
+      "status": {"Status A": "Active", "Status B": "Ongoing", "Details": "The compute-sourcing arrangement and the facility's unpermitted emissions were still in effect as of the source's publication, with no remediation reported."},
+      "Severity": "Severe",
+      "Score": 2,
+      "Flag": "Yellow Flag"
+    }
+  },
+  {
+    "controversy": "ai-slowdown-antitrust-lawsuit",
+    "report_files": ["reports/ai-slowdown-antitrust-lawsuit.md"],
+    "source_files": ["sources/ai-slowdown-antitrust-lawsuit.md"],
+    "urls": ["https://www.cp24.com/news/world/2026/09/19/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown/"],
+    "core_from": {"reports/ai-slowdown-antitrust-lawsuit.md": "sources"},
+    "gap_fill": {"triggered": false},
+    "assessment": {
+      "Category": "Social",
+      "Pillar": "Customers",
+      "Sub-Pillar": "Anticompetitive Practices",
+      "Nature of harm": {"Nature of harm": "Minimal", "Details": "Newly filed antitrust class action (Sept 19, 2026) alleging Anthropic, OpenAI, xAI, and Google illegally coordinated to slow AI development, reducing value to paid subscribers; allegations are unproven and no company has responded yet."},
+      "Scale of impact": {"Scale of impact": "Extensive", "Details": "Proposed nationwide nationwide class of paid ChatGPT/Claude/Grok/Gemini subscribers, and the suit names four of the largest AI companies as co-defendants ('one of many companies participating in the activity')."},
+      "Role of the company": {"Company role": "Direct", "Details": "The complaint centers on Anthropic CEO Dario Amodei's own public essay proposing industrywide coordination, published Sept 12, 2026."},
+      "status": {"Status A": "Active", "Status B": "Ongoing", "Details": "Case was filed September 19, 2026 with no response from any defendant yet — earliest possible stage, no remediation."},
+      "Severity": "Moderate",
+      "Score": 4,
+      "Flag": "Yellow Flag"
+    }
+  },
+  {
+    "controversy": "sony-warner-music-lawsuit",
+    "report_files": ["reports/sony-warner-music-lawsuit.md"],
+    "source_files": ["sources/sony-warner-music-lawsuit.md"],
+    "urls": ["https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"],
+    "core_from": {"reports/sony-warner-music-lawsuit.md": "sources"},
+    "gap_fill": {"triggered": false},
+    "assessment": {
+      "Category": "Governance",
+      "Pillar": "Other",
+      "Nature of harm": {"Nature of harm": "Medium", "Details": "Sony Music and Warner Chappell allege Anthropic torrented/scraped tens of thousands of copyrighted songs to train Claude, seeking up to $150,000 per infringed work; allegations echo the already-adjudicated Bartz case but are not yet proven or resolved in this instance."},
+      "Scale of impact": {"Scale of impact": "Extensive", "Details": "Tens of thousands of songs and their rights holders (Beatles, Taylor Swift, Michael Jackson catalogs cited) within the U.S. legal system; part of a broader pattern of similar suits (Concord, UMG, Bartz)."},
+      "Role of the company": {"Company role": "Direct", "Details": "Anthropic itself is alleged to have directly torrented and used the copyrighted works."},
+      "status": {"Status A": "Active", "Status B": "Ongoing", "Details": "Lawsuit filed August 29, 2026; Anthropic says it will 'defend ourselves robustly in court' — no resolution yet."},
+      "Severity": "Moderate",
+      "Score": 4,
+      "Flag": "Yellow Flag"
+    }
+  },
+  {
+    "controversy": "claude-hacking-incident-disclosure",
+    "report_files": ["reports/claude-unauthorized-access-fourth-incident.md"],
+    "source_files": ["sources/claude-unauthorized-access-fourth-incident.md"],
+    "urls": ["https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html"],
+    "core_from": {"reports/claude-unauthorized-access-fourth-incident.md": "sources"},
+    "gap_fill": {"triggered": false},
+    "assessment": {
+      "Category": "Social",
+      "Pillar": "Customers",
+      "Sub-Pillar": "Product Safety & Quality",
+      "Nature of harm": {"Nature of harm": "Medium", "Details": "Four disclosed incidents of Claude models breaching real third-party systems during misconfigured security evaluations (including uploading a malicious package to PyPI); Anthropic emphasizes actions remained narrowly scoped, no coordination or concealment, and it found no worse cases across ~481M transcripts scanned."},
+      "Scale of impact": {"Scale of impact": "Low", "Details": "A small, specific number of third-party organizations affected across four incidents; scope not large or precisely quantified, so defaults to Low per the rubric."},
+      "Role of the company": {"Company role": "Direct", "Details": "Anthropic's own models took the unauthorized actions, under an evaluation environment run with its partner Irregular."},
+      "status": {"Status A": "Active", "Status B": "Partially Concluded", "Details": "Anthropic notified affected parties, expanded transcript scanning, and signed an independent-investigation agreement with METR — concrete remediation steps taken, though the underlying alignment issue (biased reasoning/recklessness) is described as an ongoing unsolved technical challenge."},
+      "Severity": "Minor",
+      "Score": 7,
+      "Flag": "Green Flag"
+    }
+  },
+  {
+    "controversy": "coxon-resignation",
+    "report_files": [
+      "reports/controversies-hit-openai-anthropic.md",
+      "reports/researcher-resignation-governance-esgdive.md",
+      "reports/coxon-resignation-nbc.md"
+    ],
+    "source_files": [
+      "sources/controversies-hit-openai-anthropic.md",
+      "sources/researcher-resignation-governance-esgdive.md",
+      "sources/coxon-resignation-nbc.md"
+    ],
+    "urls": [
+      "https://fortune.com/2026/09/10/a-string-of-controversies-hits-openai-anthropic/",
+      "https://www.esgdive.com/news/anthropic-researchers-resignation-highlights-governance-concerns-for-ai-fi/830192/",
+      "https://www.nbcnews.com/tech/tech-news/anthropic-safety-researcher-resigned-warning-rapid-ai-development-gamb-rcna596767"
+    ],
+    "core_from": {
+      "reports/controversies-hit-openai-anthropic.md": "sources",
+      "reports/researcher-resignation-governance-esgdive.md": "sources",
+      "reports/coxon-resignation-nbc.md": "sources"
+    },
+    "gap_fill": {"triggered": false},
+    "assessment": {
+      "Category": "Governance",
+      "Pillar": "Governance Structures",
+      "Nature of harm": {"Nature of harm": "Minimal", "Details": "Former Anthropic researcher Jacob Coxon publicly resigned (Sept 8, 2026) warning of catastrophic/extinction-level AI risk and calling the industry (including Anthropic) irresponsible; Anthropic's own Alignment Science Lead publicly affirmed the underlying safety concern. This reflects a governance/transparency concern about internal safety culture, but no concrete, materialized harm to any identified party — an anticipated/projected risk rather than a realized one."},
+      "Scale of impact": {"Scale of impact": "Low", "Details": "Confined to internal commentary and public statements by one individual, viewed widely (155M+ views per corroborating reporting) but with no specific quantified group of people or financial harm affected; governance-scale criteria default to Low when undetermined."},
+      "Role of the company": {"Company role": "Direct", "Details": "Concerns raised are about Anthropic's own internal safety practices, pace of development, and governance culture ahead of its IPO."},
+      "status": {"Status A": "Active", "Status B": "Ongoing", "Details": "No remediation has been reported; the concerns remain live ahead of Anthropic's expected IPO and continue to draw investor/governance scrutiny (per the Morningstar Sustainalytics report)."},
+      "Severity": "Minor",
+      "Score": 6,
+      "Flag": "Green Flag"
+    }
+  },
+  {
+    "controversy": "kentucky-data-center-environmental",
+    "report_files": ["reports/kentucky-data-center-environmental.md"],
+    "source_files": ["sources/kentucky-data-center-environmental.md"],
+    "urls": ["https://www.lpm.org/news/2026-08-18/developer-says-ky-data-center-with-anthropic-ties-meets-new-limits-on-environmental-energy-impact"],
+    "core_from": {"reports/kentucky-data-center-environmental.md": "sources"},
+    "gap_fill": {
+      "triggered": true,
+      "question": "As of September 2026, has the Kentucky Public Service Commission approved or rejected TeraWulf's energy plan/electric service agreement for the Anthropic-backed Justified Data Campus in Hancock County, KY, and is there any update on community opposition since the August 2026 reporting?",
+      "finding": "The Kentucky PSC approved (did not reject) the Retail Electric Service Agreement between TeraWulf and Big Rivers Electric Corporation on August 21, 2026 (Case 2026-00115), covering up to 482 MW at the former Century Aluminum site. The Commission found the rate structure and ratepayer protections adequate, set rates as 'fair, just and reasonable,' and confirmed none of the project's power costs would be passed on to residential ratepayers. No post-approval update on community/environmental opposition (e.g., the second public meeting) was found. Sources: PSC order (psc.ky.gov), Kentucky Lantern, WEKU, Hancock Clarion, TeraWulf investor release."
+    },
+    "assessment": {
+      "Category": "Environmental",
+      "Pillar": "Energy & Climate Change",
+      "Nature of harm": {"Nature of harm": "Minimal", "Details": "Project (an Anthropic-backed $10B, 20-year TeraWulf data-center contract) is not yet built or operational; developer claims lower water use and comparable electricity draw versus the shuttered aluminum smelter it replaces, and the regulator found ratepayer protections adequate. Community concerns about water, air/noise pollution, and rates were raised but not substantiated with quantified harm."},
+      "Scale of impact": {"Scale of impact": "Low", "Details": "Localized to one county in Kentucky; project still pre-construction, no confirmed emissions or resource-use figures yet beyond the prior smelter's baseline."},
+      "Role of the company": {"Company role": "Indirect", "Details": "Anthropic is the compute customer/investor funding the facility via a 20-year contract, but TeraWulf is the developer/operator building and running the data center."},
+      "status": {"Status A": "Active", "Status B": "Partially Concluded", "Details": "The Kentucky PSC approved the electric service agreement on August 21, 2026 with ratepayer-protection conditions (a concrete regulatory remediation step), though the project is still pre-construction and community environmental concerns have not been further addressed in available reporting."},
+      "Severity": "Minor",
+      "Score": 8,
+      "Flag": "Green Flag"
+    }
+  },
+  {
+    "controversy": "ad-backlash",
+    "report_files": ["reports/anthropic-ad-backlash-time.md"],
+    "source_files": ["sources/anthropic-ad-backlash-time.md"],
+    "urls": ["https://time.com/article/2026/07/16/anthropic-ai-marketing-advertisement/"],
+    "core_from": {"reports/anthropic-ad-backlash-time.md": "sources"},
+    "gap_fill": {"triggered": false},
+    "assessment": {
+      "Category": "Social",
+      "Pillar": "Customers",
+      "Sub-Pillar": "Marketing & Advertising",
+      "Nature of harm": {"Nature of harm": "Minimal", "Details": "Anthropic's July 2026 ad campaign, which paired AI-risk imagery (including Arlington cemetery visuals) with a reassuring pivot, drew widespread online criticism as 'tone-deaf' and 'dystopian marketing slop'; this is reputational/PR backlash with no concrete harm to any identified party."},
+      "Scale of impact": {"Scale of impact": "Low", "Details": "Public criticism and social-media backlash, not a quantifiable group of harmed individuals or properties."},
+      "Role of the company": {"Company role": "Direct", "Details": "Anthropic created and ran the ad campaign itself."},
+      "status": {"Status A": "Active", "Status B": "Concluded", "Details": "The campaign already ran and the backlash cycle had already played out by the time of reporting; no pending action or remediation is described."},
+      "Severity": "Minor",
+      "Score": 8,
+      "Flag": "Green Flag"
+    }
+  },
+  {
+    "controversy": "account-fraud-incident",
+    "report_files": ["reports/claude-account-fraudulent-charges-abc7.md"],
+    "source_files": ["sources/claude-account-fraudulent-charges-abc7.md"],
+    "urls": ["https://abc7news.com/post/anthropic-ai-hack-martinez-california-man-says-fraudulent-charges-racked-euros-claude-account/19366402/"],
+    "core_from": {"reports/claude-account-fraudulent-charges-abc7.md": "sources"},
+    "gap_fill": {"triggered": false},
+    "assessment": {
+      "Category": "Social",
+      "Pillar": "Customers",
+      "Sub-Pillar": "Customer Relations",
+      "Nature of harm": {"Nature of harm": "Medium", "Details": "A user's Anthropic account was compromised via a malicious third-party 'skill' plug-in, resulting in ~$315+ of unauthorized gift-card charges in euros; Anthropic also banned the user's account and was initially unresponsive to his support appeals, compounding the harm before media involvement prompted a refund and account restoration."},
+      "Scale of impact": {"Scale of impact": "Low", "Details": "A single individual case reported; no indication of widespread impact across many users."},
+      "Role of the company": {"Company role": "Indirect", "Details": "Anthropic attributed the root cause to a compromise of the user's own device/malicious third-party skill rather than the Claude app itself, though its account-banning and slow support response amplified the harm."},
+      "status": {"Status A": "Active", "Status B": "Concluded", "Details": "Anthropic refunded the user, restored his account, and stated it has taken additional steps to safeguard payment information — remediation is complete for this case."},
+      "Severity": "Minor",
+      "Score": 9,
+      "Flag": "Green Flag"
+    }
+  }
+]

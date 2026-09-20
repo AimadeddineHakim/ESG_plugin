@@ -1,7 +1,7 @@
 ---
 title: Reddit privacy case against Anthropic kicked back to state court
 url: https://www.courthousenews.com/reddit-privacy-case-against-anthropic-kicked-back-to-state-court/
-fetched: 2026-09-20
+fetched: 2026-09-21
 scraper: requests+trafilatura
 ---
 

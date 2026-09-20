@@ -1,13 +1,18 @@
 # tumbler-ridge-shooting-lawsuits
 
-## Source 1: New lawsuits claim OpenAI execs put image ahead of safety in Canadian mass shooting (NPR)
-URL: https://www.npr.org/2026/09/02/nx-s1-5953021/openai-tumbler-ridge-mass-shooting
-(body used: sources/tumbler-ridge-shooting-lawsuits.md)
+=== OpenAI asks U.S. court to dismiss Tumbler Ridge mass shooting lawsuits (https://www.cp24.com/news/canada/2026/09/18/openai-asks-us-court-to-dismiss-tumbler-ridge-mass-shooting-lawsuits/) [independently scraped] ===
 
-New lawsuits filed against OpenAI (September 2, 2026) over the Tumbler Ridge, British Columbia school shooting accuse the ChatGPT maker's executives of putting public image ahead of public safety. Thirty complaints were filed in a San Francisco federal court by people present at the shooting (students, teachers, a principal), adding to seven existing plaintiff households from an April 2026 suit over the same February 2026 shooting.
-
-The new lawsuits newly allege that officials responsible for OpenAI's public relations, including chief global affairs officer Chris Lehane, overrode the safety team's recommendation to refer the alleged shooter's account to law enforcement. OpenAI disputes this account of its internal decision-making; chief strategy officer Jason Kwon called the claims about Lehane "absolutely false." OpenAI asked the court to dismiss the original seven Tumbler Ridge lawsuits on venue grounds (better heard in British Columbia).
-
-The shooting — among the worst in Canadian history — killed five students and a teacher (plus the shooter's mother and half-brother beforehand) and injured around two dozen others. Eight months earlier (June 2025), OpenAI's automated systems flagged the alleged shooter's ChatGPT account for "gun violence activity and planning" and deactivated it; the shooter created a second account OpenAI says it was unaware of until after the shooting. Plaintiffs allege OpenAI's own Intelligence and Investigations team determined the flagged conversations "posed a credible threat of gun violence against real people" and recommended alerting the RCMP — a recommendation allegedly overruled by the global affairs team.
-
-More than 40 lawsuits (mostly involving ChatGPT) have been filed nationally against AI companies over suicides, mass shootings, and other harms tied to chatbot use, including a first-of-its-kind Florida state lawsuit and a separate Florida criminal investigation tied to a Florida State University shooting. Altman has apologized to the Tumbler Ridge community; OpenAI says it has since strengthened safeguards. No settlement or resolution has occurred; litigation and dismissal motions are actively contested.
+Tech company OpenAI has filed dozens of motions asking a U.S. court to dismiss lawsuits filed by victims and families of the Tumbler Ridge mass shooting.
+The civil claims were filed in California, where OpenAI is headquartered, and allege the artificial intelligence giant was negligent for not reporting shooter Jesse Van Rootselaar’s concerning chat history to police prior to February’s attack.
+OpenAI argued the lawsuits should be tried in B.C. because the shooting “implicates British Columbian institutions, law, an public policy, including local law enforcement, mental-health treatment, firearms regulation, and schools.”
+“British Columbia courts and jurors are best suited to assess these significant issues of British Columbia law and public policy,” reads one of the company’s motions.
+The province’s interest in understanding the circumstances surrounding the tragedy “far outweighs California’s generalized interest in regulating companies headquartered in the state,” the filing adds.
+OpenAI also noted the witnesses and records are located in B.C., and said evidence can be more easily compelled if the lawsuits proceed in the province.
+Vancouver law firm Rice Parsons Leoni and Elliott LLP, which filed dozens of lawsuits in U.S. District Court on behalf of the victims, declined to comment on the motions Friday.
+Van Rootselaar, 18, killed two family members at her home in the northern B.C. community on Feb. 10, then travelled to the school where she shot six others dead before killing herself.
+The shooter’s use of OpenAI’s ChatGPT chatbot before the shooting was concerning enough for the account to be banned, the company has admitted. That ban was bypassed when the shooter opened a second account.
+Addressing the lawsuits earlier this year in a statement, Rice Parsons Leoni and Elliott LLP said: “OpenAI’s own safety team identified the shooter as a credible threat of imminent gun violence eight months before the attack, recommended that the company call the RCMP, and were overruled by OpenAI’s leadership.”
+None of the allegations against the company have been proven or tested in court.
+Seven lawsuits were filed against OpenAI in April, followed by another 30 this month. B.C. Premier David Eby blamed the company for the second wave of claims, alleging the tech firm had walked away from mediation.
+“It underlines why these companies cannot be trusted,” Eby said at the time. “They can’t be trusted to regulate themselves, they can’t be trusted in what they say.”
+With files from CTV News Vancouver’s Todd Coyne and The Canadian Press

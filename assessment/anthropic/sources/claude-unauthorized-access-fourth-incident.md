@@ -1,7 +1,7 @@
 ---
 title: Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6
 url: https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html
-fetched: 2026-09-20
+fetched: 2026-09-21
 scraper: requests+trafilatura
 ---
 

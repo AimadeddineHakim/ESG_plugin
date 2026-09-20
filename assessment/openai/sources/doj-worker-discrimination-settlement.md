@@ -1,7 +1,7 @@
 ---
 title: Civil Rights Division Secures Settlement with OpenAI for Discriminating Against U.S. Workers
 url: https://www.justice.gov/opa/pr/civil-rights-division-secures-settlement-openai-discriminating-against-us-workers
-fetched: 2026-09-20
+fetched: 2026-09-21
 scraper: requests+trafilatura
 ---
 

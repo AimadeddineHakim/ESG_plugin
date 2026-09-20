@@ -1,7 +1,7 @@
 ---
 title: ChatGPT Hits 700M Weekly Users, But at What Environmental Cost?
 url: https://carboncredits.com/chatgpt-hits-700m-weekly-users-but-at-what-environmental-cost/
-fetched: 2026-09-20
+fetched: 2026-09-21
 scraper: requests+trafilatura
 ---
 

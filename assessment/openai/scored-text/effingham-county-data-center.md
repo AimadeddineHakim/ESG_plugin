@@ -1,15 +1,38 @@
 # effingham-county-data-center
 
-## Source 1: OpenAI data center project sparks outrage among Effingham County residents
-URL: https://thecurrentga.org/2026/07/23/openai-data-center-project-sparks-outrage-among-effingham-county-residents/
-(body used: sources/effingham-county-data-center-outrage.md)
+=== OpenAI data center project sparks outrage among Effingham County residents - The Current (https://thecurrentga.org/2026/07/23/openai-data-center-project-sparks-outrage-among-effingham-county-residents/) [independently scraped] ===
 
-Nearly 1,000 people — most of whom were angry and annoyed — confronted OpenAI and Effingham County officials on July 23, 2026, about the $20 billion data center project that had been negotiated for months but announced, without any public comment or vote, earlier that week.
-
-Residents raised concerns about noise and light pollution from the 2,600-acre facility, rising electricity costs, environmental impact, and traffic congestion. A major grievance centered on the secretive negotiation process: "It stinks," said Larry Holloway, a retired paper mill worker. "That's not how democracy is supposed to work."
-
-OpenAI VP for Communications Aaron McLear called it "a done deal" that was "the right fit for everyone." The company will receive short-term tax abatements during construction but will become the county's largest taxpayer once online in 2028. OpenAI promised $80 million in community benefits (sports fields, free student training) and at least 400 jobs, and paid for a delegation of county commissioners to visit its Abilene, Texas data center to ease concerns.
-
-A Change.org petition opposing the project gathered more than 7,000 signatures. Neighboring Camden County voted for a data center moratorium; Bulloch County is discussing one; Port Wentworth residents are petitioning for one. The issue took on partisan dimensions statewide, though local opposition crossed political lines — one longtime Republican resident said he would vote Democrat for the first time over the issue.
-
-The deal itself is finalized and benefits are committed, but opposition, petitioning, and moratorium activity in neighboring jurisdictions continue.
+Nearly 1,000 people — most of whom were angry and annoyed — confronted OpenAI and Effingham County officials Thursday about the $20 billion data center project that had been negotiated for months but announced, without any public comment or vote, earlier this week.
+								
+									Browse Data Centers & Coastal Georgia								
+								
+								Stories on projects, policy, legislation							
+While the tech company known best for developing ChatGPT planned a community listening session to educate residents about benefits of the planned development, the more than three-hour event at Effingham College and Career Academy featured more shouting than listening. People ranging from 79-year-old Baptists to blue-haired liberal high school students vented about detrimental consequences for the environment and fears about increasing costs for electricity.
+Just as many were angry about the way in which the deal, which promises OpenAI significant tax abatements and that the county says will bring millions of dollars to local government coffers, was negotiated in secret without giving local residents a chance to provide opinions.
+“It stinks,” said Larry Holloway, a retired paper mill worker who has lived in Effingham County for 50 years. “That’s not how democracy is supposed to work.”
+The tech firm best known for developing the generative AI-chatbot ChatGPT selected Effingham County after considering multiple sites around the country because of the available utility infrastructure and the zoning permits already in place at the industrial zone where the data center will be built, OpenAI Vice President for Communications Aaron McLear told The Current GA.
+The company will receive short-term tax abatements while the 2,600-acre project is under construction, but the company will become the county’s largest taxpayer after it goes online in 2028, he said.
+“It’s a done deal,” McLear said. “It was the right fit for everyone.”
+McLear acknowledged concerns about the project among local officials during the negotiations. The company, however, paid for a delegation, including Effingham County commissioners, to travel to OpenAI’s data center in Abilene, Texas, earlier this year so that the company could put those fears to rest.
+While he acknowledged the public backlash, McLear promised that local residents would soon see positive results from OpenAI moving into their backyard, including $80 million in community benefits, such as sports fields, as well as free training for school students on OpenAI products.
+Effingham County Commissioner Roger Burdette confirmed that he was part of the Effingham delegation that OpenAI sent to Texas. Before the visit, he said, he was skeptical about data centers, fearing the noise pollution and the lack of job creation. But the company’s site in Abilene was both quiet and impressive. “I changed my mind,” he said, as he fielded dozens of questions from irate voters. “You should trust us on this.”
+Brandt Herndon, the chief executive officer of the Effingham County Industrial Development Authority, told The Current that the county was initially approached about the data center around fall 2025.
+As people approached him in the crowded auditorium with questions, comments and frustrations, Herndon said he tried to encourage them to have an open mind. He redirected them to “ask the tough questions” to the OpenAI employees who were manning dozens of tables and booths with educational material about the planned data center design, engineering and water use.
+“I think if everybody leaves with some additional information, they truly can make an educated decision as to how they feel about the project,” he said.
+The positive engagement with data centers by Effingham County officials contrasts with other area municipalities. Camden County became the first county in Coastal Georgia to vote for a data center moratorium. Bulloch County, to the north of Effingham, is discussing a moratorium. Residents in Port Wentworth, in neighboring Chatham County, are petitioning for a moratorium, after city council rejected their concerns and passed a pro-data center ordinance last year.
+While dissenters who gathered Thursday in Rincon came from diverse social and political backgrounds, on a state and national level, data centers have taken a partisan tone.
+Earlier in the day, Georgia Republican Gov. Brian Kemp signed a symbolic pledge at an event in Washington D.C. spearheaded by President Donald Trump to push data center and AI companies pay the energy costs of the controversial projects, rather than consumers.
+Trump defended the data center boom.
+“Other nations are trying to get us to slow down, and they are spending a lot of money on propaganda, on press, PR, trying to convince everybody that this isn’t a positive thing, and if we don’t do this, we’re going to be left behind,” the president said.
+In the Effingham auditorium, opponents of the data center expressed various fears, but not concern over a global race for AI supremacy.
+Former Effingham County resident Haley Reynolds moved to Savannah in November 2025, to teach environmental science in the Effingham County School District. She came Thursday to express concern about noise levels, light pollution and traffic congestion that the OpenAI data center could bring — but she’s especially worried about the center’s impacts on the next generation.
+“I think it would be kind of hypocritical for us to develop this data center in the middle of our county when we’re teaching our kids that that’s not good for their future. They’re going to inherit this community,” she said.
+Savannah resident Bill Wright considers himself a “data center refugee” — he moved from Northern Virginia, dubbed the data center capital of the world, nine months ago to escape the facilities.
+Now, Wright’s peace has been disrupted yet again.
+“I’ve seen the industry blueprint before,” he said. “I can tell you what they’re going to do: they’re going to accentuate the positive. They’re not going to talk anything about the impacts. They make promises with no guarantees, and this is something people here are going to regret.”
+Local Democratic Party leaders, including Democratic 1st Congressional District candidate Amanda Hollowell, showed up in the parking lot to join the hundreds of protesters waving handmade signs to talk about the dangers data centers pose to the environment.
+“Nothing this large has ever been built like this,” said Savannah Indivisible Co-Founder Kris Mecholsky. “And to just plant it in Georgia’s 1st Congressional District is undemocratic,” he said.
+Not all the people who came to the auditorium were naysayers. Many of the informational booths set up by OpenAI were for job seekers, and dozens of people talked to OpenAI staff about potential jobs. In the company’s announcement, they promised to create at least 400 jobs.
+Yet the backlash overshadowed those interested in possibly benefiting from a new employer.
+A petition seeking to cancel the data center had attracted more than 7,000 signatures as of Thursday evening, even as county commissioners inside the auditorium said no issue remains to hold up the deal.
+Dozens of residents in this heavily Republican county promised to use their voices this fall on Election Day, as a way to show their displeasure about the project. “For the first time in my life I will be voting Democrat,” said a construction worker named Scott who has lived in Effingham County for seven years. “Commissioners need to remember that they work for us, not for themselves.”

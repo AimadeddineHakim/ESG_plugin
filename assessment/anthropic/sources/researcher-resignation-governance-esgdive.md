@@ -1,7 +1,7 @@
 ---
-title: Anthropic Researcher's Resignation Highlights AI Governance Concerns
+title: Anthropic researcher’s resignation highlights governance concerns for AI firms’ IPOs
 url: https://www.esgdive.com/news/anthropic-researchers-resignation-highlights-governance-concerns-for-ai-fi/830192/
-fetched: 2026-09-20
+fetched: 2026-09-21
 scraper: requests+trafilatura
 ---
 

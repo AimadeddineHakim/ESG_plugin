@@ -1,7 +1,7 @@
 ---
 title: An Anthropic safety researcher resigned with a warning about AI to co-workers on Slack
 url: https://www.nbcnews.com/tech/tech-news/anthropic-safety-researcher-resigned-warning-rapid-ai-development-gamb-rcna596767
-fetched: 2026-09-20
+fetched: 2026-09-21
 scraper: requests+trafilatura
 ---
 

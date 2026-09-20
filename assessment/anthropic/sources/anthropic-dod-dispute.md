@@ -1,7 +1,7 @@
 ---
-title: Anthropic–United States Department of Defense dispute
+title: Anthropic–United States Department of Defense dispute - Wikipedia
 url: https://en.wikipedia.org/wiki/Anthropic%E2%80%93United_States_Department_of_Defense_dispute
-fetched: 2026-09-20
+fetched: 2026-09-21
 scraper: requests+trafilatura
 ---
 

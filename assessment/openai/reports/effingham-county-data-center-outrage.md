@@ -1,40 +1,19 @@
 ---
-title: OpenAI Data Center Project Sparks Outrage Among Effingham County Residents
+title: OpenAI data center project sparks outrage among Effingham County residents
 url: https://thecurrentga.org/2026/07/23/openai-data-center-project-sparks-outrage-among-effingham-county-residents/
-fetched: 2026-09-20
-query: "OpenAI" data center energy OR emissions OR environmental controversy
+fetched: 2026-09-21
+query: "OpenAI" pollution OR emissions OR environmental 2026
 controversies: [effingham-county-data-center]
 ---
 
-# OpenAI Data Center Project Sparks Outrage Among Effingham County Residents
+Nearly 1,000 residents attended a July 23, 2026 community meeting in Rincon to voice concerns about a $20 billion OpenAI data center project that county officials had negotiated in secret for months before announcing it publicly.
 
-Nearly 1,000 people attended a community meeting on July 23, 2026, to voice concerns about OpenAI's $20 billion data center project in Effingham County, Georgia. The majority expressed anger over both the project itself and the secretive negotiation process.
+Residents' Concerns: The crowded auditorium erupted with complaints spanning environmental damage, noise pollution, light pollution, traffic congestion, and increased electricity costs. A retired paper mill worker captured widespread sentiment, saying "That's not how democracy is supposed to work." Environmental science teacher Haley Reynolds worried about hypocrisy in teaching students environmental responsibility while developing such infrastructure.
 
-## Main Concerns
+Official Support: OpenAI Vice President Aaron McLear defended the project, stating "It's a done deal. It was the right fit for everyone." County Commissioner Roger Burdette, who visited OpenAI's Texas facility, urged residents to trust officials, noting the Texas site was "quiet and impressive."
 
-Residents raised multiple environmental and quality-of-life issues:
+Project Details: The 2,600-acre facility will receive temporary tax breaks during construction but become the county's largest taxpayer by 2028. OpenAI promised 400 jobs and $80 million in community benefits including sports facilities and student training programs.
 
-- **Noise pollution and light pollution** from the 2,600-acre facility
-- **Electricity cost increases** for local consumers
-- **Environmental impact** on the community
-- **Traffic congestion** expected from operations
+Political Context: The issue transcended typical party lines locally, though nationally data centers have become partisan -- with Republican Governor Brian Kemp pledging companies rather than consumers should pay energy costs.
 
-Environmental science teacher Haley Reynolds stated: "I think it would be kind of hypocritical for us to develop this data center in the middle of our county when we're teaching our kids that that's not good for their future."
-
-## Process Concerns
-
-A major grievance centered on the lack of public input. Retired paper mill worker Larry Holloway commented: "It stinks...That's not how democracy is supposed to work."
-
-The deal was negotiated for months beginning in fall 2025 but announced without public comment or a county vote. A Change.org petition opposing the project gathered over 7,000 signatures by Thursday evening.
-
-## Support for the Project
-
-OpenAI promised 400 jobs and $80 million in community benefits, including sports fields and free training. Some residents attended to inquire about employment opportunities, though their presence was overshadowed by protest activity.
-
-County Commissioner Roger Burdette, who visited OpenAI's Texas facility, attempted to reassure residents: "You should trust us on this."
-
-## Political Dimensions
-
-The issue split along partisan lines at the state level, though local opposition transcended traditional political boundaries. Governor Brian Kemp signed a pledge supporting data center development, while Democratic leaders joined protesters outside the meeting venue.
-
-One longtime Republican resident stated he would vote Democrat for the first time, declaring: "Commissioners need to remember that they work for us, not for themselves."
+Public Resistance: Over 7,000 signatures appeared on a petition opposing the project. Other nearby communities have pursued data center moratoriums.

@@ -1,7 +1,7 @@
 ---
-title: Anthropic's landmark $1.5B copyright settlement is approved
+title: Anthropic's landmark $1.5B copyright settlement is approved | TechCrunch
 url: https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/
-fetched: 2026-09-20
+fetched: 2026-09-21
 scraper: requests+trafilatura
 ---
 

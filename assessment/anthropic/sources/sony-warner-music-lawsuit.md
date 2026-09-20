@@ -1,7 +1,7 @@
 ---
-title: Sony Music and Warner sue Anthropic over copyright violations ("brazen campaign" of IP theft)
+title: Sony Music, Warner sue Anthropic, alleging a 'brazen campaign' of intellectual property theft | TechCrunch
 url: https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/
-fetched: 2026-09-20
+fetched: 2026-09-21
 scraper: requests+trafilatura
 ---
 

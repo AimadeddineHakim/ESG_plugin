@@ -1,7 +1,7 @@
 ---
 title: Martinez man says his AI was hacked as fraudulent charges racked up in euros on Claude account
 url: https://abc7news.com/post/anthropic-ai-hack-martinez-california-man-says-fraudulent-charges-racked-euros-claude-account/19366402/
-fetched: 2026-09-20
+fetched: 2026-09-21
 scraper: requests+trafilatura
 ---
 

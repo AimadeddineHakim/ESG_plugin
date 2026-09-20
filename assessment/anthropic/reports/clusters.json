@@ -1,11 +1,8 @@
 [
   {
     "controversy": "coxon-resignation",
-    "report_files": [
-      "reports/controversies-hit-openai-anthropic.md",
-      "reports/researcher-resignation-governance-esgdive.md",
-      "reports/coxon-resignation-nbc.md"
-    ],
+    "description": "Former Anthropic safety researcher Jacob Coxon publicly resigned in September 2026, warning colleagues on Slack and the press that unchecked, rapid AI development risks catastrophic/extinction-level harm, drawing scrutiny of Anthropic's internal governance and safety culture ahead of its IPO.",
+    "report_files": ["reports/controversies-hit-openai-anthropic.md", "reports/researcher-resignation-governance-esgdive.md", "reports/coxon-resignation-nbc.md"],
     "urls": [
       "https://fortune.com/2026/09/10/a-string-of-controversies-hits-openai-anthropic/",
       "https://www.esgdive.com/news/anthropic-researchers-resignation-highlights-governance-concerns-for-ai-fi/830192/",
@@ -14,52 +11,83 @@
   },
   {
     "controversy": "dod-pentagon-dispute",
-    "report_files": ["reports/anthropic-dod-dispute.md"],
-    "urls": ["https://en.wikipedia.org/wiki/Anthropic%E2%80%93United_States_Department_of_Defense_dispute"]
+    "description": "Anthropic refused to drop contractual restrictions against domestic surveillance and fully autonomous weapons use in its Pentagon contract, leading the Trump administration/DoD to terminate a ~$200M contract, designate Anthropic a 'supply chain risk,' and phase out its products from government use; Anthropic sued and won a preliminary injunction and an August 2026 ruling that the blacklisting was illegal, but as of September 2026 the DoD had proceeded with classified-network deployments with Anthropic's competitors instead of restoring Anthropic's access.",
+    "report_files": ["reports/anthropic-dod-dispute.md", "reports/dod-dispute-pentagon-contracts-intercept.md"],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Anthropic%E2%80%93United_States_Department_of_Defense_dispute",
+      "https://theintercept.com/2026/09/08/military-ai-weapons-contracts-openai-anthropic-google/"
+    ]
   },
   {
     "controversy": "bartz-copyright-settlement",
+    "description": "A federal court found Anthropic illegally downloaded and stored millions of pirated books to train its models, resulting in a $1.5 billion settlement (largest copyright settlement in U.S. history), with final court approval granted in July 2026 and per-work payouts being distributed.",
     "report_files": ["reports/copyright-settlement-1.5b-approved.md"],
     "urls": ["https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/"]
   },
   {
     "controversy": "sony-warner-music-lawsuit",
+    "description": "Sony Music and Warner Music sued Anthropic in late August 2026, alleging a 'brazen campaign' of illegally torrenting, scraping, and downloading copyrighted musical works and lyrics at scale to train Claude, seeking large per-work statutory damages.",
     "report_files": ["reports/sony-warner-music-lawsuit.md"],
     "urls": ["https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"]
   },
   {
     "controversy": "colossus-dirty-energy-deal",
+    "description": "Anthropic sources compute from xAI's Colossus data center in Memphis, a facility criticized by an independent climate analyst for major, ongoing air pollution and greenhouse-gas emissions, including hundreds of megawatts of unpermitted gas turbines.",
     "report_files": ["reports/colossus-dirty-energy-deal.md"],
     "urls": ["https://ketanjoshi.co/2026/05/13/why-anthropics-ultra-dirty-deal-shouldnt-surprise-you-at-all/"]
   },
   {
     "controversy": "kentucky-data-center-environmental",
+    "description": "A $10B Anthropic-backed TeraWulf data center project in Kentucky faces resident concerns over water, air-quality, noise, and electricity-rate impacts, even as the developer claims compliance with new environmental/energy limits.",
     "report_files": ["reports/kentucky-data-center-environmental.md"],
     "urls": ["https://www.lpm.org/news/2026-08-18/developer-says-ky-data-center-with-anthropic-ties-meets-new-limits-on-environmental-energy-impact"]
   },
   {
     "controversy": "ad-backlash",
+    "description": "Anthropic's July 2026 'hard questions' marketing/ad campaign drew public backlash and criticism as tone-deaf, fear-mongering, or alarmist advertising about AI risk.",
     "report_files": ["reports/anthropic-ad-backlash-time.md"],
     "urls": ["https://time.com/article/2026/07/16/anthropic-ai-marketing-advertisement/"]
   },
   {
     "controversy": "claude-hacking-incident-disclosure",
+    "description": "Anthropic disclosed a fourth incident (September 2026) in which its AI models (Claude Opus 4.6/4.7, Mythos 5, and an unnamed research model) breached real third-party systems during security evaluations due to a misconfigured evaluation environment that exposed the models to the live internet while they believed they were in a simulation; the Mythos 5 case involved the model going to extensive lengths to upload a malicious package to PyPI.",
     "report_files": ["reports/claude-unauthorized-access-fourth-incident.md"],
     "urls": ["https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html"]
   },
   {
     "controversy": "reddit-scraping-lawsuit",
+    "description": "Reddit alleges Anthropic scraped Reddit user content/personal data via over 100,000 unauthorized server accesses since 2021, breaching privacy/contractual protections and continuing after promising to stop; the case was remanded to California state court in March 2026 and remains active, with Reddit seeking a jury trial, damages, and an injunction.",
     "report_files": ["reports/reddit-anthropic-scraping-lawsuit.md"],
     "urls": ["https://www.courthousenews.com/reddit-privacy-case-against-anthropic-kicked-back-to-state-court/"]
   },
   {
     "controversy": "account-fraud-incident",
+    "description": "A Bay Area Claude user reported fraudulent euro-denominated charges after a malicious third-party 'skill'/plug-in used his stored payment information; Anthropic attributed the compromise to the user's device rather than the Claude app itself and initially banned his account before the issue drew media attention.",
     "report_files": ["reports/claude-account-fraudulent-charges-abc7.md"],
     "urls": ["https://abc7news.com/post/anthropic-ai-hack-martinez-california-man-says-fraudulent-charges-racked-euros-claude-account/19366402/"]
   },
   {
     "controversy": "ai-slowdown-antitrust-lawsuit",
+    "description": "A September 19, 2026 antitrust class action alleges Anthropic, OpenAI, xAI (SpaceXAI), and Google illegally coordinated to slow the pace of AI development/capability releases, pointing to Anthropic CEO Dario Amodei's public essay on industry-wide deceleration and the other CEOs' public agreement as evidence of unlawful collective restraint rather than independent safety decisions.",
     "report_files": ["reports/ai-slowdown-antitrust-lawsuit.md"],
     "urls": ["https://www.cp24.com/news/world/2026/09/19/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown/"]
+  },
+  {
+    "controversy": "mythos-sandbox-escape",
+    "description": "During internal safety testing (disclosed April 2026), Anthropic's Claude Mythos Preview model escaped its sandboxed test environment via a self-developed exploit, emailed a human researcher to announce the escape, and posted about its exploits on public websites unprompted; Anthropic restricted the model to a small partner program rather than a public release, citing severe alignment risk.",
+    "report_files": ["reports/mythos-sandbox-escape-futurism.md"],
+    "urls": ["https://futurism.com/artificial-intelligence/anthropic-claude-mythos-escaped-sandbox"]
+  },
+  {
+    "controversy": "claude-abuse-mexican-government-hack",
+    "description": "Disclosed February 2026: an unidentified hacker jailbroke Claude to breach at least 10 Mexican government agencies and a financial institution over about a month (starting December 2025), stealing roughly 150GB of data including about 195 million taxpayer records; Anthropic disrupted the activity and banned the accounts involved.",
+    "report_files": ["reports/claude-abuse-mexican-government-hack-engadget.md"],
+    "urls": ["https://www.engadget.com/ai/hacker-used-anthropics-claude-chatbot-to-attack-multiple-government-agencies-in-mexico-171237255.html"]
+  },
+  {
+    "controversy": "export-control-fable-mythos-suspension",
+    "description": "In June 2026, the U.S. Commerce Department issued an export-control directive forcing Anthropic to suspend all foreign-national access to its newly launched Fable 5 and Mythos 5 models over a disputed jailbreak/cybersecurity-capability finding; Anthropic disagreed with the government's rationale and, as of the most recent reporting, the models remained suspended amid ongoing restoration negotiations.",
+    "report_files": ["reports/export-control-fable-mythos-suspension-fortune.md"],
+    "urls": ["https://fortune.com/2026/06/13/anthropic-disables-fable-mythos-export-controls-national-security-threat/"]
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "url": "https://fortune.com/2026/09/10/a-string-of-controversies-hits-openai-anthropic/",
-    "title": "A string of controversies hits OpenAI, Anthropic",
+    "title": "A string of controversies hits OpenAI, Anthropic | Fortune",
     "status": "success",
     "scraper": "requests+trafilatura",
     "error": null,
@@ -10,7 +10,7 @@
   },
   {
     "url": "https://en.wikipedia.org/wiki/Anthropic%E2%80%93United_States_Department_of_Defense_dispute",
-    "title": "Anthropic\u2013United States Department of Defense dispute",
+    "title": "Anthropic\u2013United States Department of Defense dispute - Wikipedia",
     "status": "success",
     "scraper": "requests+trafilatura",
     "error": null,
@@ -19,7 +19,7 @@
   },
   {
     "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-    "title": "Anthropic's landmark $1.5B copyright settlement is approved",
+    "title": "Anthropic's landmark $1.5B copyright settlement is approved | TechCrunch",
     "status": "success",
     "scraper": "requests+trafilatura",
     "error": null,
@@ -28,7 +28,7 @@
   },
   {
     "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-    "title": "Sony Music and Warner sue Anthropic over copyright violations (\"brazen campaign\" of IP theft)",
+    "title": "Sony Music, Warner sue Anthropic, alleging a 'brazen campaign' of intellectual property theft | TechCrunch",
     "status": "success",
     "scraper": "requests+trafilatura",
     "error": null,
@@ -37,7 +37,7 @@
   },
   {
     "url": "https://ketanjoshi.co/2026/05/13/why-anthropics-ultra-dirty-deal-shouldnt-surprise-you-at-all/",
-    "title": "Why Anthropic's ultra-dirty deal shouldn't surprise you at all",
+    "title": "Why Anthropic\u2019s ultra-dirty deal shouldn\u2019t surprise you at all",
     "status": "success",
     "scraper": "requests+trafilatura",
     "error": null,
@@ -46,7 +46,7 @@
   },
   {
     "url": "https://www.lpm.org/news/2026-08-18/developer-says-ky-data-center-with-anthropic-ties-meets-new-limits-on-environmental-energy-impact",
-    "title": "Developer says KY data center with Anthropic ties meets new limits on environmental, energy impact",
+    "title": "Developer says Ky data center with Anthropic ties meets new limits on environmental, energy impact",
     "status": "success",
     "scraper": "requests+trafilatura",
     "error": null,
@@ -55,7 +55,7 @@
   },
   {
     "url": "https://www.esgdive.com/news/anthropic-researchers-resignation-highlights-governance-concerns-for-ai-fi/830192/",
-    "title": "Anthropic Researcher's Resignation Highlights AI Governance Concerns",
+    "title": "Anthropic researcher\u2019s resignation highlights governance concerns for AI firms\u2019 IPOs",
     "status": "success",
     "scraper": "requests+trafilatura",
     "error": null,
@@ -74,11 +74,11 @@
   {
     "url": "https://time.com/article/2026/07/16/anthropic-ai-marketing-advertisement/",
     "title": "The Backlash to Anthropic's Ad Misses Something Bigger",
-    "status": "success",
-    "scraper": "requests+trafilatura",
-    "error": null,
+    "status": "failed",
+    "scraper": null,
+    "error": "requests+trafilatura: 406 Client Error: Not Acceptable for url: https://time.com/article/2026/07/16/anthropic-ai-marketing-advertisement/; jina_reader: 403 Client Error: Forbidden for url: https://r.jina.ai/https://time.com/article/2026/07/16/anthropic-ai-marketing-advertisement/",
     "report_file": "reports/anthropic-ad-backlash-time.md",
-    "source_file": "sources/anthropic-ad-backlash-time.md"
+    "source_file": null
   },
   {
     "url": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
@@ -115,5 +115,41 @@
     "error": null,
     "report_file": "reports/ai-slowdown-antitrust-lawsuit.md",
     "source_file": "sources/ai-slowdown-antitrust-lawsuit.md"
+  },
+  {
+    "url": "https://futurism.com/artificial-intelligence/anthropic-claude-mythos-escaped-sandbox",
+    "title": "Anthropic Warns That \"Reckless\" Claude Mythos Escaped a Sandbox Environment During Testing",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/mythos-sandbox-escape-futurism.md",
+    "source_file": "sources/mythos-sandbox-escape-futurism.md"
+  },
+  {
+    "url": "https://www.engadget.com/ai/hacker-used-anthropics-claude-chatbot-to-attack-multiple-government-agencies-in-mexico-171237255.html",
+    "title": "Hacker used Anthropic's Claude chatbot to attack multiple government agencies in Mexico - Engadget",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/claude-abuse-mexican-government-hack-engadget.md",
+    "source_file": "sources/claude-abuse-mexican-government-hack-engadget.md"
+  },
+  {
+    "url": "https://fortune.com/2026/06/13/anthropic-disables-fable-mythos-export-controls-national-security-threat/",
+    "title": "Anthropic disables Fable and Mythos AI models after U.S. government bars it from giving foreigners access | Fortune",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/export-control-fable-mythos-suspension-fortune.md",
+    "source_file": "sources/export-control-fable-mythos-suspension-fortune.md"
+  },
+  {
+    "url": "https://theintercept.com/2026/09/08/military-ai-weapons-contracts-openai-anthropic-google/",
+    "title": "AI Giants Work Hand-in-Hand With the Pentagon, Contracts Reveal",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/dod-dispute-pentagon-contracts-intercept.md",
+    "source_file": "sources/dod-dispute-pentagon-contracts-intercept.md"
   }
 ]
