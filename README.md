@@ -73,7 +73,7 @@ Two things worth calling out:
 
 ## Dependencies
 
-The scraper (`esg-url-scraper`) uses `requests`, `trafilatura`, and `beautifulsoup4`. You don't need to install these yourself — the skill checks for them and runs `python3 -m pip install -r skills/esg-url-scraper/scripts/requirements.txt` automatically the first time it hits a missing import. If you'd rather install it ahead of time (or something about your Python environment makes auto-install unreliable):
+The scraper (`esg-url-scraper`) uses `requests`, `trafilatura`, and `beautifulsoup4`. You don't need to install these yourself — the skill checks for them and runs `python3 -m pip install -r skills/esg-url-scraper/scripts/requirements.txt` automatically the first time it hits a missing import (falling back to `python -m pip` if `python3` isn't a recognized command on your system, e.g. some Windows setups). If you'd rather install it ahead of time (or something about your Python environment makes auto-install unreliable):
 
 ```
 python3 -m pip install -r skills/esg-url-scraper/scripts/requirements.txt

@@ -1,7 +1,7 @@
 ---
 name: esg-controversy-assessment
 description: Use this skill whenever you're given a company name plus a news article, report excerpt, or other text and asked to assess it for an ESG (Environmental, Social, Governance) controversy — e.g. "does this describe an ESG controversy for {company}?", "classify this incident", "score this ESG issue". Produces a structured assessment (category, pillar/sub-pillar, nature of harm, scale of impact, company role, case status, severity, and a 0-9 score with a flag color).
-allowed-tools: Read, Grep, Bash(${CLAUDE_SKILL_DIR}/scripts/score.py *)
+allowed-tools: Read, Grep, Bash(python3 ${CLAUDE_SKILL_DIR}/scripts/score.py *), Bash(python ${CLAUDE_SKILL_DIR}/scripts/score.py *)
 ---
 
 # ESG Controversy Assessment
@@ -47,8 +47,10 @@ Using [references/harm-impact-role-status.md](references/harm-impact-role-status
 This step is a fixed lookup-table calculation — do not compute it by reasoning, run the bundled script so the result is exact:
 
 ```
-${CLAUDE_SKILL_DIR}/scripts/score.py "<Nature of Harm>" "<Scale of Impact>" "<Company Role>" "<Case Status Sub-Category>"
+python3 ${CLAUDE_SKILL_DIR}/scripts/score.py "<Nature of Harm>" "<Scale of Impact>" "<Company Role>" "<Case Status Sub-Category>"
 ```
+
+If `python3` isn't a recognized command on this system (e.g. some Windows setups), use `python` instead of `python3`.
 
 Notes:
 - `<Case Status Sub-Category>` must be one of `Ongoing`, `Partially Concluded`, `Concluded` — the scoring matrix only covers Active cases. If the case is Inactive (Archived / Historical Concern), skip this step and note that no numeric score applies.

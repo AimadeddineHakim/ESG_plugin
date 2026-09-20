@@ -1,7 +1,7 @@
 ---
 name: esg-url-scraper
 description: Use this skill when asked to scrape, re-fetch, or independently verify ESG research sources for a company that esg-deep-research already ran — e.g. "scrape the sources for {company}", "re-scrape anthropic's sources", "independently fetch {company}'s research URLs". Reads assessment/<company-slug>/reports/manifest.json for the full list of URLs esg-deep-research found, re-fetches every one of them using free no-key scrapers (requests+trafilatura, then Jina Reader as fallback), saves successes into assessment/<company-slug>/sources/, and writes a results manifest linking each URL back to its original esg-deep-research report file. Does not search for new URLs — that's esg-deep-research's job.
-allowed-tools: Read, Glob, Write, Bash(${CLAUDE_SKILL_DIR}/scripts/scrape.py *), Bash(python3 -m pip install -r ${CLAUDE_SKILL_DIR}/scripts/requirements.txt), Bash(mkdir -p assessment/*/sources)
+allowed-tools: Read, Glob, Write, Bash(python3 ${CLAUDE_SKILL_DIR}/scripts/scrape.py *), Bash(python ${CLAUDE_SKILL_DIR}/scripts/scrape.py *), Bash(python3 -m pip install -r ${CLAUDE_SKILL_DIR}/scripts/requirements.txt), Bash(python -m pip install -r ${CLAUDE_SKILL_DIR}/scripts/requirements.txt), Bash(mkdir -p assessment/*/sources)
 ---
 
 # ESG URL Scraper
@@ -26,15 +26,17 @@ The scraper script needs `requests`, `trafilatura`, and `beautifulsoup4`. If run
 python3 -m pip install -r ${CLAUDE_SKILL_DIR}/scripts/requirements.txt
 ```
 
-then retry. (Use `python3 -m pip`, not a bare `pip` command — `pip` isn't guaranteed to be on `PATH` on every machine, but the `python3` this skill's own script requires already is.)
+then retry. (Use `python3 -m pip`, not a bare `pip` command — `pip` isn't guaranteed to be on `PATH` on every machine, but `python3` is a safer bet. If `python3` itself isn't a recognized command on this system (e.g. some Windows setups, where it's just `python`), use `python -m pip install -r ...` instead.)
 
 ## Step 4 — Scrape every URL in the manifest
 
 For every entry in `manifest.json` (unconditionally — no content-quality check gates this), run:
 
 ```
-${CLAUDE_SKILL_DIR}/scripts/scrape.py "<url>"
+python3 ${CLAUDE_SKILL_DIR}/scripts/scrape.py "<url>"
 ```
+
+If `python3` isn't a recognized command on this system, use `python ${CLAUDE_SKILL_DIR}/scripts/scrape.py "<url>"` instead. (Don't rely on executing the script directly via its shebang — that only works on macOS/Linux; invoking it through the interpreter explicitly works everywhere.)
 
 This tries two free, no-key tiers in order, falling through only when the previous one fails or returns too little text:
 
