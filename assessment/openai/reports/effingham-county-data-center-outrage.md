@@ -3,6 +3,7 @@ title: OpenAI Data Center Project Sparks Outrage Among Effingham County Resident
 url: https://thecurrentga.org/2026/07/23/openai-data-center-project-sparks-outrage-among-effingham-county-residents/
 fetched: 2026-09-20
 query: "OpenAI" data center energy OR emissions OR environmental controversy
+controversies: [effingham-county-data-center]
 ---
 
 # OpenAI Data Center Project Sparks Outrage Among Effingham County Residents

@@ -3,6 +3,7 @@ title: New lawsuits claim OpenAI execs put image ahead of safety in Canadian mas
 url: https://www.npr.org/2026/09/02/nx-s1-5953021/openai-tumbler-ridge-mass-shooting
 fetched: 2026-09-20
 query: "OpenAI" lawsuit OR fined OR investigation
+controversies: [tumbler-ridge-shooting-lawsuits]
 ---
 
 New lawsuits brought against OpenAI on Wednesday over a school shooting in Tumbler Ridge, British Columbia, accuse the ChatGPT maker's executives of putting its public image ahead of public safety.

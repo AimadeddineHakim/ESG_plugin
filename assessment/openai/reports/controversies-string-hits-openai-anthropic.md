@@ -3,6 +3,7 @@ title: A string of controversies hits OpenAI, Anthropic
 url: https://fortune.com/2026/09/10/a-string-of-controversies-hits-openai-anthropic/
 fetched: 2026-09-20
 query: "OpenAI" controversy 2026
+controversies: [wikipedia-messaging-incident, benchmaxxing, navier-stokes-dispute]
 ---
 
 # A string of controversies hits OpenAI, Anthropic

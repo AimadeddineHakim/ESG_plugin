@@ -3,6 +3,7 @@ title: Investigation Into OpenAI Demonstrates That States Are Taking Vanguard Po
 url: https://www.regulatoryoversight.com/2026/08/investigation-into-openai-demonstrates-that-states-are-taking-vanguard-position/
 fetched: 2026-09-20
 query: "OpenAI" lawsuit OR fined OR investigation 2026
+controversies: [hugging-face-unauthorized-access]
 ---
 
 # Investigation Into OpenAI Demonstrates That States Are Taking Vanguard Position

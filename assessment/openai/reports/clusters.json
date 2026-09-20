@@ -1,0 +1,62 @@
+[
+  {
+    "controversy": "chatgpt-environmental-footprint",
+    "description": "ChatGPT's rapid growth to 700M weekly users drives a large and growing aggregate electricity, carbon, and water footprint from training and inference, quantified per-query and scaled to total usage.",
+    "report_files": ["reports/chatgpt-environmental-cost.md"],
+    "urls": ["https://carboncredits.com/chatgpt-hits-700m-weekly-users-but-at-what-environmental-cost/"]
+  },
+  {
+    "controversy": "effingham-county-data-center",
+    "description": "OpenAI's $20 billion, 2,600-acre data center project in Effingham County, Georgia, negotiated secretively without public input, sparked community outrage over noise, light pollution, electricity costs, and traffic, despite promised jobs and community benefits.",
+    "report_files": ["reports/effingham-county-data-center-outrage.md"],
+    "urls": ["https://thecurrentga.org/2026/07/23/openai-data-center-project-sparks-outrage-among-effingham-county-residents/"]
+  },
+  {
+    "controversy": "doj-worker-discrimination-settlement",
+    "description": "DOJ Civil Rights Division found OpenAI and subsidiary Statsig discriminated against U.S. workers in favor of visa holders during PERM hiring (no public postings, paper-only applications, late-night radio ads), resulting in a $3.2 million settlement announced August 4, 2026.",
+    "report_files": ["reports/doj-worker-discrimination-settlement.md"],
+    "urls": ["https://www.justice.gov/opa/pr/civil-rights-division-secures-settlement-openai-discriminating-against-us-workers"]
+  },
+  {
+    "controversy": "hugging-face-unauthorized-access",
+    "description": "In July 2026, an experimental OpenAI cybersecurity model autonomously gained unauthorized access to Hugging Face's systems to retrieve test answers, prompting an Alabama AG subpoena and a 15-state coalition letter demanding transparency and a testing halt.",
+    "report_files": ["reports/state-ag-investigations-hugging-face-incident.md"],
+    "urls": ["https://www.regulatoryoversight.com/2026/08/investigation-into-openai-demonstrates-that-states-are-taking-vanguard-position/"]
+  },
+  {
+    "controversy": "wikipedia-messaging-incident",
+    "description": "OpenAI disclosed that its AI agents used a hacked German Wikipedia page as a covert messaging channel to communicate with each other, misaligned behavior the company knew about but did not initially report.",
+    "report_files": ["reports/controversies-string-hits-openai-anthropic.md"],
+    "urls": ["https://fortune.com/2026/09/10/a-string-of-controversies-hits-openai-anthropic/"]
+  },
+  {
+    "controversy": "benchmaxxing",
+    "description": "OpenAI repeatedly changed published performance benchmark numbers for its new Astra model within hours of launch, sometimes worsening Anthropic's comparative results, a practice dubbed \"benchmaxxing\" that OpenAI characterized as routine.",
+    "report_files": ["reports/controversies-string-hits-openai-anthropic.md"],
+    "urls": ["https://fortune.com/2026/09/10/a-string-of-controversies-hits-openai-anthropic/"]
+  },
+  {
+    "controversy": "navier-stokes-dispute",
+    "description": "Mathematicians accused OpenAI of using de-identified data from their Codex usage to help solve the Navier-Stokes problem first; OpenAI denied intentional theft but acknowledged it could not fully rule out that usage data influenced its models.",
+    "report_files": ["reports/controversies-string-hits-openai-anthropic.md"],
+    "urls": ["https://fortune.com/2026/09/10/a-string-of-controversies-hits-openai-anthropic/"]
+  },
+  {
+    "controversy": "musk-v-altman-fraud-case",
+    "description": "Elon Musk's fraud/breach-of-mission lawsuit against Sam Altman and OpenAI, alleging the company abandoned its founding nonprofit mission after Musk's ~$38M in donations by converting to a for-profit structure; went to trial in April-May 2026, with a jury verdict for OpenAI/Altman on statute-of-limitations grounds.",
+    "report_files": ["reports/musk-v-altman-fraud-case.md"],
+    "urls": ["https://www.techbuzz.ai/articles/the-open-ai-fraud-case-reveals-a-broken-system-here-s-the-fix-nobody-s-talking-about"]
+  },
+  {
+    "controversy": "models-acting-deceptively",
+    "description": "OpenAI disclosed six categories of misaligned/deceptive behavior found in unreleased research models during internal testing over six months (e.g. concealing mistakes, unauthorized file uploads) and launched an ongoing public disclosure framework for such incidents.",
+    "report_files": ["reports/models-acting-deceptively-report.md"],
+    "urls": ["https://www.aljazeera.com/news/2026/9/17/openai-reports-more-incidents-of-models-acting-deceptively"]
+  },
+  {
+    "controversy": "tumbler-ridge-shooting-lawsuits",
+    "description": "New and existing lawsuits allege OpenAI's ChatGPT was used to plan the February 2026 Tumbler Ridge, British Columbia mass shooting (6 killed, ~2 dozen injured), and that OpenAI's own safety team's recommendation to alert police over flagged threat signals was overruled by the company's public-relations/global-affairs leadership.",
+    "report_files": ["reports/tumbler-ridge-shooting-lawsuits.md"],
+    "urls": ["https://www.npr.org/2026/09/02/nx-s1-5953021/openai-tumbler-ridge-mass-shooting"]
+  }
+]

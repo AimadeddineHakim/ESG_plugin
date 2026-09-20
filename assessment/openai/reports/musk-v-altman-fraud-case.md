@@ -3,6 +3,7 @@ title: The OpenAI Fraud Case Reveals a Broken System. Here's the Fix Nobody's Ta
 url: https://www.techbuzz.ai/articles/the-open-ai-fraud-case-reveals-a-broken-system-here-s-the-fix-nobody-s-talking-about
 fetched: 2026-09-20
 query: "OpenAI" fraud OR corruption OR governance scandal
+controversies: [musk-v-altman-fraud-case]
 ---
 
 # The OpenAI Fraud Case Reveals a Broken System. Here's the Fix Nobody's Talking About.

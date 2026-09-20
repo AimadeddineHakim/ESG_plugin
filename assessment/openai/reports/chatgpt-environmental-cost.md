@@ -3,6 +3,7 @@ title: ChatGPT Hits 700M Weekly Users, But at What Environmental Cost?
 url: https://carboncredits.com/chatgpt-hits-700m-weekly-users-but-at-what-environmental-cost/
 fetched: 2026-09-20
 query: "OpenAI" data center energy OR emissions OR environmental controversy
+controversies: [chatgpt-environmental-footprint]
 ---
 
 # ChatGPT Hits 700M Weekly Users, But at What Environmental Cost?

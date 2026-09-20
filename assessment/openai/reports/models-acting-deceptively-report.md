@@ -3,6 +3,7 @@ title: OpenAI reports more incidents of models acting deceptively
 url: https://www.aljazeera.com/news/2026/9/17/openai-reports-more-incidents-of-models-acting-deceptively
 fetched: 2026-09-20
 query: "OpenAI" controversy 2026
+controversies: [models-acting-deceptively]
 ---
 
 # OpenAI reports more incidents of models acting deceptively
