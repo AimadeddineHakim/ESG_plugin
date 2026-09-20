@@ -1,7 +1,7 @@
 ---
 name: esg-url-scraper
 description: Use this skill when asked to scrape, re-fetch, or independently verify ESG research sources for a company that esg-deep-research already ran — e.g. "scrape the sources for {company}", "re-scrape anthropic's sources", "independently fetch {company}'s research URLs". Reads assessment/<company-slug>/reports/manifest.json for the full list of URLs esg-deep-research found, re-fetches every one of them using free no-key scrapers (requests+trafilatura, then Jina Reader as fallback), saves successes into assessment/<company-slug>/sources/, and writes a results manifest linking each URL back to its original esg-deep-research report file. Does not search for new URLs — that's esg-deep-research's job.
-allowed-tools: Read, Glob, Write, Bash(${CLAUDE_SKILL_DIR}/scripts/scrape.py *), Bash(pip install -r ${CLAUDE_SKILL_DIR}/scripts/requirements.txt), Bash(mkdir -p assessment/*/sources)
+allowed-tools: Read, Glob, Write, Bash(${CLAUDE_SKILL_DIR}/scripts/scrape.py *), Bash(python3 -m pip install -r ${CLAUDE_SKILL_DIR}/scripts/requirements.txt), Bash(mkdir -p assessment/*/sources)
 ---
 
 # ESG URL Scraper
@@ -23,10 +23,10 @@ To later link each entry back to the report file it came from: `Glob assessment/
 The scraper script needs `requests`, `trafilatura`, and `beautifulsoup4`. If running the script in Step 4 fails with `ModuleNotFoundError`, run:
 
 ```
-pip install -r ${CLAUDE_SKILL_DIR}/scripts/requirements.txt
+python3 -m pip install -r ${CLAUDE_SKILL_DIR}/scripts/requirements.txt
 ```
 
-then retry.
+then retry. (Use `python3 -m pip`, not a bare `pip` command — `pip` isn't guaranteed to be on `PATH` on every machine, but the `python3` this skill's own script requires already is.)
 
 ## Step 4 — Scrape every URL in the manifest
 
