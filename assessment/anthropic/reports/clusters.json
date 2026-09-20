@@ -1,0 +1,65 @@
+[
+  {
+    "controversy": "coxon-resignation",
+    "report_files": [
+      "reports/controversies-hit-openai-anthropic.md",
+      "reports/researcher-resignation-governance-esgdive.md",
+      "reports/coxon-resignation-nbc.md"
+    ],
+    "urls": [
+      "https://fortune.com/2026/09/10/a-string-of-controversies-hits-openai-anthropic/",
+      "https://www.esgdive.com/news/anthropic-researchers-resignation-highlights-governance-concerns-for-ai-fi/830192/",
+      "https://www.nbcnews.com/tech/tech-news/anthropic-safety-researcher-resigned-warning-rapid-ai-development-gamb-rcna596767"
+    ]
+  },
+  {
+    "controversy": "dod-pentagon-dispute",
+    "report_files": ["reports/anthropic-dod-dispute.md"],
+    "urls": ["https://en.wikipedia.org/wiki/Anthropic%E2%80%93United_States_Department_of_Defense_dispute"]
+  },
+  {
+    "controversy": "bartz-copyright-settlement",
+    "report_files": ["reports/copyright-settlement-1.5b-approved.md"],
+    "urls": ["https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/"]
+  },
+  {
+    "controversy": "sony-warner-music-lawsuit",
+    "report_files": ["reports/sony-warner-music-lawsuit.md"],
+    "urls": ["https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"]
+  },
+  {
+    "controversy": "colossus-dirty-energy-deal",
+    "report_files": ["reports/colossus-dirty-energy-deal.md"],
+    "urls": ["https://ketanjoshi.co/2026/05/13/why-anthropics-ultra-dirty-deal-shouldnt-surprise-you-at-all/"]
+  },
+  {
+    "controversy": "kentucky-data-center-environmental",
+    "report_files": ["reports/kentucky-data-center-environmental.md"],
+    "urls": ["https://www.lpm.org/news/2026-08-18/developer-says-ky-data-center-with-anthropic-ties-meets-new-limits-on-environmental-energy-impact"]
+  },
+  {
+    "controversy": "ad-backlash",
+    "report_files": ["reports/anthropic-ad-backlash-time.md"],
+    "urls": ["https://time.com/article/2026/07/16/anthropic-ai-marketing-advertisement/"]
+  },
+  {
+    "controversy": "claude-hacking-incident-disclosure",
+    "report_files": ["reports/claude-unauthorized-access-fourth-incident.md"],
+    "urls": ["https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html"]
+  },
+  {
+    "controversy": "reddit-scraping-lawsuit",
+    "report_files": ["reports/reddit-anthropic-scraping-lawsuit.md"],
+    "urls": ["https://www.courthousenews.com/reddit-privacy-case-against-anthropic-kicked-back-to-state-court/"]
+  },
+  {
+    "controversy": "account-fraud-incident",
+    "report_files": ["reports/claude-account-fraudulent-charges-abc7.md"],
+    "urls": ["https://abc7news.com/post/anthropic-ai-hack-martinez-california-man-says-fraudulent-charges-racked-euros-claude-account/19366402/"]
+  },
+  {
+    "controversy": "ai-slowdown-antitrust-lawsuit",
+    "report_files": ["reports/ai-slowdown-antitrust-lawsuit.md"],
+    "urls": ["https://www.cp24.com/news/world/2026/09/19/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown/"]
+  }
+]

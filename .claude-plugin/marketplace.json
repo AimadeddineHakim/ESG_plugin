@@ -1,0 +1,12 @@
+{
+  "name": "esg-tracking",
+  "owner": {
+    "name": "Imadedine Hakim"
+  },
+  "plugins": [
+    {
+      "name": "esg-tracking",
+      "source": "./"
+    }
+  ]
+}

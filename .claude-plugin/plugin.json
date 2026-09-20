@@ -1,0 +1,8 @@
+{
+  "name": "esg-tracking",
+  "description": "End-to-end ESG (Environmental, Social, Governance) controversy tracking: research a company from the web, independently re-verify sources, cluster coverage into distinct controversies, score each one's severity, and track how findings change across reruns.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Imadedine Hakim"
+  }
+}

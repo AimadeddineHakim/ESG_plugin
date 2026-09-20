@@ -1,0 +1,260 @@
+[
+  {
+    "controversy": "child-safety-addiction-settlement",
+    "report_files": [
+      "reports/npr-meta-settlement-inflection-point.md",
+      "reports/fortune-zuckerberg-hubris-settlement.md",
+      "reports/aljazeera-social-media-addiction-cost.md"
+    ],
+    "source_files": [
+      "sources/why-meta-s-settlement-could-be-an-inflection-point-for-reining-in-big-tech.md",
+      "sources/a-flawed-system-and-one-man-s-hubris-cost-meta-shareholders-17-billion.md",
+      "sources/what-the-social-media-addiction-lawsuit-could-cost-meta.md"
+    ],
+    "urls": [
+      "https://www.npr.org/2026/08/27/nx-s1-5945278/meta-settlement-child-safety-big-tech",
+      "https://fortune.com/2026/09/12/zuckerberg-meta-17-billion-settlement-hubris-flawed-system/",
+      "https://www.aljazeera.com/economy/2026/8/19/what-the-social-media-addiction-lawsuit-could-cost-meta"
+    ],
+    "core_from": {
+      "reports/npr-meta-settlement-inflection-point.md": "sources",
+      "reports/fortune-zuckerberg-hubris-settlement.md": "sources",
+      "reports/aljazeera-social-media-addiction-cost.md": "sources"
+    },
+    "gap_fill": { "triggered": false },
+    "scored_text_file": "scored-text/child-safety-addiction-settlement.md",
+    "assessment": {
+      "Category": "Social",
+      "Pillar": "Customers",
+      "Sub-Pillar": "Product Safety & Quality",
+      "Nature of harm": { "Nature of harm": "Serious", "Details": "Allegations that Facebook and Instagram were deliberately designed to be addictive to minors, causing documented mental-health harm and driving a coalition of 47 states plus over 100,000 individual/institutional lawsuits; a debilitating, significant impairment to affected young users, though not established as a leading cause of death across the aggregated sources reviewed." },
+      "Scale of impact": { "Scale of impact": "Extremely Widespread", "Details": "47 states, thousands of families, and over 100,000 pending lawsuits across the United States — well above the 1,000+ people / multi-jurisdiction threshold for Extremely Widespread." },
+      "Role of the company": { "Company role": "Direct", "Details": "The alleged addictive design (infinite scroll, algorithmic engagement optimization, data collection on minors) is Meta's own product design choice." },
+      "status": { "Status A": "Active", "Status B": "Partially Concluded", "Details": "Meta agreed to pay up to $17.1B and change certain product features, but the settlement admits no wrongdoing, is contingent on YouTube/TikTok also settling, age-verification commitments are only 'best-effort,' and thousands of related individual suits remain pending — remediation started but concerns/disputes remain ongoing." },
+      "Severity": "Severe",
+      "Score": 2,
+      "Flag": "Yellow Flag"
+    }
+  },
+  {
+    "controversy": "ai-glasses-privacy-lawsuit",
+    "report_files": [
+      "reports/techcrunch-meta-ai-glasses-lawsuit.md",
+      "reports/petapixel-meta-ai-glasses-lawsuit.md"
+    ],
+    "source_files": [
+      "sources/meta-sued-over-ai-smart-glasses-privacy-concerns-after-workers-reviewed-nudity-s.md",
+      "sources/meta-sued-after-workers-watched-private-moments-recorded-on-ai-smart-glasses.md"
+    ],
+    "urls": [
+      "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/",
+      "https://petapixel.com/2026/03/09/meta-sued-after-workers-watched-private-moments-recorded-on-ai-smart-glasses/"
+    ],
+    "core_from": {
+      "reports/techcrunch-meta-ai-glasses-lawsuit.md": "sources",
+      "reports/petapixel-meta-ai-glasses-lawsuit.md": "sources"
+    },
+    "gap_fill": { "triggered": false },
+    "scored_text_file": "scored-text/ai-glasses-privacy-lawsuit.md",
+    "assessment": {
+      "Category": "Social",
+      "Pillar": "Customers",
+      "Sub-Pillar": "Privacy & Data Security",
+      "Nature of harm": { "Nature of harm": "Serious", "Details": "Intimate, highly sensitive footage (nudity, sexual activity, credit card numbers, identifiable faces) captured via smart glasses was reviewed by low-paid overseas contractors without adequate disclosure, a significant privacy impairment even absent physical injury." },
+      "Scale of impact": { "Scale of impact": "Extensive", "Details": "Over 7 million Meta smart glasses were sold in 2025 with footage funneled into the same review pipeline, and 70+ plaintiffs have joined the litigation as of September 2026 — a large, multi-jurisdiction but not yet fully quantified affected population." },
+      "Role of the company": { "Company role": "Direct", "Details": "Meta designed the data pipeline, contracted the overseas reviewers, and wrote the privacy marketing claims at issue." },
+      "status": { "Status A": "Active", "Status B": "Ongoing", "Details": "Class action filed March 2026, still in litigation with no settlement, and the UK Information Commissioner's Office has opened a separate investigation; no remediation has been implemented yet." },
+      "Severity": "Severe",
+      "Score": 1,
+      "Flag": "Orange Flag"
+    }
+  },
+  {
+    "controversy": "ai-layoff-discrimination-lawsuit",
+    "report_files": [
+      "reports/hrgrapevine-meta-ai-layoff-lawsuit.md",
+      "reports/business-humanrights-meta-ai-layoff-lawsuit.md"
+    ],
+    "source_files": [
+      "sources/meta-sued-over-alleged-use-of-discriminatory-ai-tools-during-layoffs.md",
+      null
+    ],
+    "urls": [
+      "https://www.hrgrapevine.com/us/content/article/2026-07-15-meta-sued-over-alleged-use-of-discriminatory-ai-tools-during-layoffs",
+      "https://www.business-humanrights.org/en/latest-news/usa-26-meta-workers-file-lawsuit-alleging-ai-based-layoff-process-disproportionately-affected-employees-on-protected-leave-or-with-disability-accommodations/"
+    ],
+    "core_from": {
+      "reports/hrgrapevine-meta-ai-layoff-lawsuit.md": "sources",
+      "reports/business-humanrights-meta-ai-layoff-lawsuit.md": "reports"
+    },
+    "gap_fill": { "triggered": false },
+    "scored_text_file": "scored-text/ai-layoff-discrimination-lawsuit.md",
+    "assessment": {
+      "Category": "Social",
+      "Pillar": "Labor Rights & Supply Chain",
+      "Sub-Pillar": "Discrimination & Workforce Diversity",
+      "Nature of harm": { "Nature of harm": "Serious", "Details": "26 employees allege job loss, lost equity, and lost income resulting from an AI-driven scoring system that structurally penalized protected medical/parental/disability leave — a concrete, resulting labor-rights harm, including a scientist terminated two days before giving birth." },
+      "Scale of impact": { "Scale of impact": "Extensive", "Details": "26 named plaintiffs (within the 25-999 person Extensive band), drawn from an ~8,000-role, 10%-of-workforce reduction in force where the same AI-scoring methodology was applied broadly." },
+      "Role of the company": { "Company role": "Direct", "Details": "Meta built and deployed the internal AI/monitoring systems (Metamate, keystroke/activity monitoring, AI-token dashboards) used to select employees for termination." },
+      "status": { "Status A": "Active", "Status B": "Ongoing", "Details": "A federal judge declined to block the layoffs but found the case raises 'serious questions going to the merits' and left the door open to revisiting the ruling; litigation is unresolved and Meta disputes the allegations." },
+      "Severity": "Severe",
+      "Score": 1,
+      "Flag": "Orange Flag"
+    }
+  },
+  {
+    "controversy": "hyperion-data-center-emissions",
+    "report_files": [
+      "reports/businessreport-sierra-club-hyperion-emissions.md"
+    ],
+    "source_files": [
+      "sources/sierra-club-meta-is-underestimating-emissions-from-its-hyperion-data-center.md"
+    ],
+    "urls": [
+      "https://www.businessreport.com/article/sierra-club-meta-is-underestimating-emissions-from-its-hyperion-data-center"
+    ],
+    "core_from": {
+      "reports/businessreport-sierra-club-hyperion-emissions.md": "sources"
+    },
+    "gap_fill": {
+      "triggered": true,
+      "question": "What is the current status of the Sierra Club's challenge to Meta's Hyperion, Louisiana data center air permit — is this at the public-comment/agency-review stage, or has formal litigation/appeal been filed against the Louisiana Department of Environmental Quality?",
+      "finding": "Still at the agency-review / public-comment stage as of the most recent coverage found (mid-August 2026). LDEQ approved a permit revision keeping the facility as a 'minor source' on June 6, 2026; the Sierra Club submitted formal objection comments on July 30, 2026 requesting reclassification, on-site air monitoring, battery-storage consideration, and a public hearing. As of August 11, 2026, LDEQ had not responded publicly and no hearing had been scheduled. No formal legal appeal or lawsuit has been filed by the Sierra Club against LDEQ or Meta over this permit; one source speculated environmental groups 'may' pursue litigation if the administrative process stalls, but this is unconfirmed."
+    },
+    "scored_text_file": "scored-text/hyperion-data-center-emissions.md",
+    "assessment": {
+      "Category": "Environmental",
+      "Pillar": "Toxic Emissions & Waste",
+      "Nature of harm": { "Nature of harm": "Minimal", "Details": "This is a dispute over air-permit classification and future emissions accounting, not a documented release, spill, or confirmed excess-emissions event — an anticipated/hypothetical impact with no immediate confirmed effects." },
+      "Scale of impact": { "Scale of impact": "Low", "Details": "Confined to a single facility and permitting proceeding in Richland Parish, Louisiana; no established affected land/air area size or multi-site pattern." },
+      "Role of the company": { "Company role": "Direct", "Details": "Meta (via its permittee entity) filed the permit amendment and is the facility operator whose emissions accounting is being disputed." },
+      "status": { "Status A": "Active", "Status B": "Ongoing", "Details": "Per gap-fill research, LDEQ has not ruled on the Sierra Club's objections, no hearing has been held, and no remediation or resolution has occurred as of the most recent available reporting." },
+      "Severity": "Minor",
+      "Score": 6,
+      "Flag": "Green Flag"
+    }
+  },
+  {
+    "controversy": "scam-ads-fraud-epidemic",
+    "report_files": [
+      "reports/mediapost-meta-crypto-scams-lawsuit.md",
+      "reports/siliconangle-reuters-meta-deceive-regulators.md",
+      "reports/tradingstandards-meta-epidemic-of-fraud.md"
+    ],
+    "source_files": [
+      "sources/meta-sued-over-crypto-scams.md",
+      "sources/reuters-investigation-claims-meta-tried-to-deceive-regulators-over-fake-ads.md",
+      "sources/government-must-take-action-on-meta-s-epidemic-of-fraud-says-trading-standards.md"
+    ],
+    "urls": [
+      "https://www.mediapost.com/publications/article/417725/meta-sued-over-crypto-scams.html",
+      "https://siliconangle.com/2026/01/01/reuters-investigation-claims-meta-tried-deceive-regulators-fake-ads/",
+      "https://www.tradingstandards.uk/news-policy-campaigns/news-room/2026/government-must-take-action-on-meta-s-epidemic-of-fraud-says-trading-standards/"
+    ],
+    "core_from": {
+      "reports/mediapost-meta-crypto-scams-lawsuit.md": "sources",
+      "reports/siliconangle-reuters-meta-deceive-regulators.md": "sources",
+      "reports/tradingstandards-meta-epidemic-of-fraud.md": "sources"
+    },
+    "gap_fill": { "triggered": false },
+    "scored_text_file": "scored-text/scam-ads-fraud-epidemic.md",
+    "assessment": {
+      "Category": "Governance",
+      "Pillar": "Bribery & Fraud",
+      "Nature of harm": { "Nature of harm": "Serious", "Details": "An estimated $16B in 2024 revenue tied to scam advertising, UK consumer losses in the tens of millions of pounds, and a Reuters-documented internal 'playbook' allegedly used to mislead regulators about the true scale of the problem — material financial impact exceeding the $100M+ threshold, driven by a deliberate internal strategy rather than mere negligence." },
+      "Scale of impact": { "Scale of impact": "Extremely Widespread", "Details": "Described as roughly a third of all successful scams in the US, an estimated 15 billion scam ads shown daily worldwide, and regulatory/legal action spanning the US (Santa Clara County, US Virgin Islands), UK (Trading Standards, FCA), and European regulators — clearly global, multi-G20-country scale." },
+      "Role of the company": { "Company role": "Direct", "Details": "The alleged Ad Library manipulation and decision to limit advertiser verification to only legally-mandated markets were Meta's own internal policy choices, not a third party's." },
+      "status": { "Status A": "Active", "Status B": "Ongoing", "Details": "Multiple active lawsuits (crypto-scam class action, US Virgin Islands suit), a Santa Clara County suit, and continuing regulatory pressure from UK/European bodies, with no verification-policy change or settlement reported yet." },
+      "Severity": "Severe",
+      "Score": 1,
+      "Flag": "Orange Flag"
+    }
+  },
+  {
+    "controversy": "instagram-encryption-removal",
+    "report_files": [
+      "reports/euronews-instagram-encryption-removal.md"
+    ],
+    "source_files": [
+      "sources/private-instagram-messages-will-no-longer-be-encrypted-meta-says.md"
+    ],
+    "urls": [
+      "https://www.euronews.com/next/2026/03/18/private-instagram-messages-will-no-longer-be-encrypted-meta-says"
+    ],
+    "core_from": {
+      "reports/euronews-instagram-encryption-removal.md": "sources"
+    },
+    "gap_fill": { "triggered": false },
+    "scored_text_file": "scored-text/instagram-encryption-removal.md",
+    "assessment": {
+      "Category": "Social",
+      "Pillar": "Customers",
+      "Sub-Pillar": "Privacy & Data Security",
+      "Nature of harm": { "Nature of harm": "Medium", "Details": "Removing end-to-end encryption increases theoretical exposure of private message content to Meta's servers and potential compelled disclosure/breach, but no concrete resulting harm (breach, misuse) was reported in the sources reviewed — an adverse-effect risk lacking direct documented causality so far." },
+      "Scale of impact": { "Scale of impact": "Low", "Details": "Meta itself stated 'very few people were opting in' to encrypted DMs before the change, indicating the actually-affected population choosing that feature was small, even though the platform's overall user base is large." },
+      "Role of the company": { "Company role": "Direct", "Details": "This was Meta's own unilateral product decision to discontinue a previously offered privacy feature." },
+      "status": { "Status A": "Active", "Status B": "Concluded", "Details": "The change was implemented as planned effective May 8, 2026; no pending legal action was identified, though privacy advocates continue to criticize the reversal on principle." },
+      "Severity": "Minor",
+      "Score": 8,
+      "Flag": "Green Flag"
+    }
+  },
+  {
+    "controversy": "ai-image-consent-feature",
+    "report_files": [
+      "reports/petapixel-meta-ai-image-feature-removed.md"
+    ],
+    "source_files": [
+      "sources/meta-removes-ai-image-generation-feature-that-used-public-instagram-posts-follow.md"
+    ],
+    "urls": [
+      "https://petapixel.com/2026/07/10/meta-removes-ai-image-generation-feature-that-used-public-instagram-posts-following-user-backlash/"
+    ],
+    "core_from": {
+      "reports/petapixel-meta-ai-image-feature-removed.md": "sources"
+    },
+    "gap_fill": { "triggered": false },
+    "scored_text_file": "scored-text/ai-image-consent-feature.md",
+    "assessment": {
+      "Category": "Social",
+      "Pillar": "Customers",
+      "Sub-Pillar": "Privacy & Data Security",
+      "Nature of harm": { "Nature of harm": "Medium", "Details": "The feature let users generate AI images referencing any public Instagram account's likeness/photos by default, without affirmative consent — a real privacy/consent violation, but the sources reviewed reported no confirmed instances of resulting exploitation before Meta withdrew it." },
+      "Scale of impact": { "Scale of impact": "Extensive", "Details": "The feature was enabled by default for all public Instagram accounts (a very large population), though it was live for only about three days before being pulled, limiting the window of actual exposure." },
+      "Role of the company": { "Company role": "Direct", "Details": "Meta designed and shipped the default opt-in behavior itself." },
+      "status": { "Status A": "Active", "Status B": "Concluded", "Details": "Meta fully disabled the feature on July 10, 2026 in direct response to the backlash, with no indication of plans to reintroduce it; no lawsuit was identified in the sources reviewed." },
+      "Severity": "Moderate",
+      "Score": 6,
+      "Flag": "Green Flag"
+    }
+  },
+  {
+    "controversy": "extremist-content-monetization",
+    "report_files": [
+      "reports/theconversation-meta-controversial-content-monetization.md"
+    ],
+    "source_files": [
+      "sources/why-meta-is-paying-for-controversial-content-and-what-that-means-for-the-posts-y.md"
+    ],
+    "urls": [
+      "https://theconversation.com/why-meta-is-paying-for-controversial-content-and-what-that-means-for-the-posts-you-see-289603"
+    ],
+    "core_from": {
+      "reports/theconversation-meta-controversial-content-monetization.md": "sources"
+    },
+    "gap_fill": { "triggered": false },
+    "scored_text_file": "scored-text/extremist-content-monetization.md",
+    "assessment": {
+      "Category": "Social",
+      "Pillar": "Customers",
+      "Sub-Pillar": "Product Safety & Quality",
+      "Nature of harm": { "Nature of harm": "Medium", "Details": "Monetizing accounts linked to white nationalism, neo-Nazism, and anti-vaccine misinformation contributes to normalizing and financially incentivizing harmful content, but the reporting reviewed did not link it to a specific, direct injury or death — an adverse effect without established direct causality to concrete harm." },
+      "Scale of impact": { "Scale of impact": "Low", "Details": "Reporting was limited to unspecified 'Australian accounts' without a quantified count of accounts, reach, or affected population — insignificant/indeterminate scale as documented." },
+      "Role of the company": { "Company role": "Direct", "Details": "Meta operates and controls its own content-monetization program and the payments made through it." },
+      "status": { "Status A": "Active", "Status B": "Ongoing", "Details": "No indication the underlying structural gap between community-standards enforcement and the separate, engagement-driven monetization system has been fixed; the practice appears to be continuing." },
+      "Severity": "Minor",
+      "Score": 6,
+      "Flag": "Green Flag"
+    }
+  }
+]

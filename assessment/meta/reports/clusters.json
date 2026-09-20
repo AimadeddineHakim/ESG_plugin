@@ -1,0 +1,94 @@
+[
+  {
+    "controversy": "child-safety-addiction-settlement",
+    "description": "Meta agreed to pay up to $17.1 billion to settle a landmark federal/multistate lawsuit brought by 47 states and thousands of families alleging Facebook and Instagram were deliberately designed to be addictive and harmful to children, following earlier bellwether jury losses and a separate $567 million New Mexico penalty in 2026.",
+    "report_files": [
+      "reports/npr-meta-settlement-inflection-point.md",
+      "reports/fortune-zuckerberg-hubris-settlement.md",
+      "reports/aljazeera-social-media-addiction-cost.md"
+    ],
+    "urls": [
+      "https://www.npr.org/2026/08/27/nx-s1-5945278/meta-settlement-child-safety-big-tech",
+      "https://fortune.com/2026/09/12/zuckerberg-meta-17-billion-settlement-hubris-flawed-system/",
+      "https://www.aljazeera.com/economy/2026/8/19/what-the-social-media-addiction-lawsuit-could-cost-meta"
+    ]
+  },
+  {
+    "controversy": "ai-glasses-privacy-lawsuit",
+    "description": "Meta faces a class action (and 70+ plaintiffs) alleging its Ray-Ban Meta AI smart glasses' marketing misrepresented privacy protections, after reporting revealed Kenya-based contractors reviewed intimate footage — including nudity and sexual activity — captured by the devices for AI training.",
+    "report_files": [
+      "reports/techcrunch-meta-ai-glasses-lawsuit.md",
+      "reports/petapixel-meta-ai-glasses-lawsuit.md"
+    ],
+    "urls": [
+      "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/",
+      "https://petapixel.com/2026/03/09/meta-sued-after-workers-watched-private-moments-recorded-on-ai-smart-glasses/"
+    ]
+  },
+  {
+    "controversy": "ai-layoff-discrimination-lawsuit",
+    "description": "26 current/former Meta employees sued in July 2026, alleging that AI-driven scoring systems used during Meta's ~8,000-role (10% workforce) reduction-in-force disproportionately selected staff who were on protected medical, parental, or disability leave, in violation of FMLA, the Pregnancy Discrimination Act, and the ADA.",
+    "report_files": [
+      "reports/hrgrapevine-meta-ai-layoff-lawsuit.md",
+      "reports/business-humanrights-meta-ai-layoff-lawsuit.md"
+    ],
+    "urls": [
+      "https://www.hrgrapevine.com/us/content/article/2026-07-15-meta-sued-over-alleged-use-of-discriminatory-ai-tools-during-layoffs",
+      "https://www.business-humanrights.org/en/latest-news/usa-26-meta-workers-file-lawsuit-alleging-ai-based-layoff-process-disproportionately-affected-employees-on-protected-leave-or-with-disability-accommodations/"
+    ]
+  },
+  {
+    "controversy": "hyperion-data-center-emissions",
+    "description": "The Sierra Club challenged a Louisiana Department of Environmental Quality air permit revision for Meta's Hyperion data center in Richland Parish, arguing Meta's permit undercounts emissions (by excluding emergency diesel generators and natural gas boilers) to stay under the major-source pollution threshold.",
+    "report_files": [
+      "reports/businessreport-sierra-club-hyperion-emissions.md"
+    ],
+    "urls": [
+      "https://www.businessreport.com/article/sierra-club-meta-is-underestimating-emissions-from-its-hyperion-data-center"
+    ]
+  },
+  {
+    "controversy": "scam-ads-fraud-epidemic",
+    "description": "Meta faces mounting allegations — a class-action lawsuit over crypto scam ads, a Reuters investigation into an internal 'playbook' to mislead regulators about scam-ad prevalence, and UK Trading Standards criticism — that it knowingly profits from a large volume of fraudulent advertising ($16B in 2024 scam-ad revenue estimated) while resisting costly verification fixes.",
+    "report_files": [
+      "reports/mediapost-meta-crypto-scams-lawsuit.md",
+      "reports/siliconangle-reuters-meta-deceive-regulators.md",
+      "reports/tradingstandards-meta-epidemic-of-fraud.md"
+    ],
+    "urls": [
+      "https://www.mediapost.com/publications/article/417725/meta-sued-over-crypto-scams.html",
+      "https://siliconangle.com/2026/01/01/reuters-investigation-claims-meta-tried-deceive-regulators-fake-ads/",
+      "https://www.tradingstandards.uk/news-policy-campaigns/news-room/2026/government-must-take-action-on-meta-s-epidemic-of-fraud-says-trading-standards/"
+    ]
+  },
+  {
+    "controversy": "instagram-encryption-removal",
+    "description": "Meta announced it will discontinue end-to-end encryption for Instagram private messages effective May 8, 2026, reversing its 2019 privacy commitment, a move welcomed by child-safety groups but criticized by privacy advocates as reducing user message confidentiality against Meta server access.",
+    "report_files": [
+      "reports/euronews-instagram-encryption-removal.md"
+    ],
+    "urls": [
+      "https://www.euronews.com/next/2026/03/18/private-instagram-messages-will-no-longer-be-encrypted-meta-says"
+    ]
+  },
+  {
+    "controversy": "ai-image-consent-feature",
+    "description": "Meta launched (and, after three days of backlash from Public Citizen, CAA, and SAG-AFTRA, withdrew) a Muse Image AI feature that let users generate images referencing any public Instagram account's photos by default opt-in, without the account holder's affirmative consent.",
+    "report_files": [
+      "reports/petapixel-meta-ai-image-feature-removed.md"
+    ],
+    "urls": [
+      "https://petapixel.com/2026/07/10/meta-removes-ai-image-generation-feature-that-used-public-instagram-posts-following-user-backlash/"
+    ]
+  },
+  {
+    "controversy": "extremist-content-monetization",
+    "description": "ABC News Verify reporting found Facebook's content monetization program paid Australian accounts linked to white nationalism, neo-Nazism, and anti-vaccine misinformation, exposing a structural gap between Meta's community-standards enforcement and its separate, engagement-driven monetization system.",
+    "report_files": [
+      "reports/theconversation-meta-controversial-content-monetization.md"
+    ],
+    "urls": [
+      "https://theconversation.com/why-meta-is-paying-for-controversial-content-and-what-that-means-for-the-posts-you-see-289603"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+# Aggregated text for controversy: hyperion-data-center-emissions
+
+The Sierra Club challenged a Louisiana Department of Environmental Quality air permit revision for Meta's Hyperion data center in Richland Parish, arguing Meta's permit undercounts emissions (by excluding emergency diesel generators and natural gas boilers) to stay under the major-source pollution threshold.
+
+
+=== Source: Sierra Club: Meta is underestimating emissions from its Hyperion data center (https://www.businessreport.com/article/sierra-club-meta-is-underestimating-emissions-from-its-hyperion-data-center) ===
+
+The Sierra Club is challenging Louisiana's approval of revised air permits for Meta's Hyperion data center in Richland Parish, arguing that the facility should have been classified as a major source o…
+Home  Newsletters  Daily Report AM  Sierra Club: Meta is underestimating emissions from its Hyperion data center
+
+Additional context (from WebSearch summary of the same story): The environmental group contends that Meta's revised permit underestimates the facility's emissions by excluding emissions from emergency diesel generators, and that including those emissions along with the site's 44 natural gas water boilers would push the project above the 100-ton annual threshold for a minor source permit. Meta says the diesel generators are intended only for emergency backup use and therefore are not expected to operate continuously, and that it complies with all federal, state and local air quality and permitting requirements. The Sierra Club is also urging LDEQ to require on-site air monitoring, consider battery storage as a cleaner alternative, and hold a public hearing on the permit revisions. The permit covers the data center's generators, boilers and fuel storage, but does not include emissions from 10 natural gas turbines Entergy is constructing to power the facility, since those emissions will be permitted separately.
+
+=== Follow-up research ===
+
+Question: What is the current status of the Sierra Club's challenge to Meta's Hyperion, Louisiana data center air permit — is this at the public-comment/agency-review stage, or has formal litigation/appeal been filed against the Louisiana Department of Environmental Quality?
+
+Finding (as of research conducted 2026-09-20, most recent coverage found dated August 11, 2026): Still at the agency-review / public-comment stage. No formal legal appeal or litigation has been filed, and LDEQ has not issued a final decision on the Sierra Club's objections.
+
+Timeline: LDEQ issued Meta's original minor-source air permit in July 2025 (under permittee name "Laidley LLC"), covering emergency diesel generators, a fire pump, and fuel storage. On January 14, 2026, Laidley/Meta filed a permit amendment adding 44 natural-gas-fired water boilers intended to run continuously. LDEQ approved that revision on June 6, 2026, keeping the "minor source" classification by excluding the diesel generators (treated as emergency-only) from the major-source threshold calculation. On July 30, 2026, the Sierra Club submitted formal comments to LDEQ objecting to this classification and requesting on-site air monitoring, consideration of battery storage, and a public hearing. As of the most recent coverage (August 4–11, 2026), LDEQ had not responded to press inquiries about the Sierra Club's comments — no LDEQ decision, hearing date, or public response had been issued. One source noted, without confirmation, that environmental groups "may pursue the matter through a lawsuit in state court" if the administrative process does not resolve their concerns — this is speculative, not a confirmed filed appeal. No public hearing has been scheduled or held, and no final LDEQ ruling has been issued. Sources: Louisiana Illuminator (Aug 4 and Aug 5, 2026), CleanTechnica (Jul 30, 2026), Baton Rouge Business Report, SEJ headline roundup, Yahoo/AP wire coverage.

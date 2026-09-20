@@ -1,0 +1,16 @@
+# Meta ESG Research Index (2026)
+
+1. **npr-meta-settlement-inflection-point.md** — NPR overview of Meta's up-to-$17.1B child-safety/addiction settlement with 47 states. [child-safety-addiction-settlement]
+2. **fortune-zuckerberg-hubris-settlement.md** — Fortune op-ed on governance failures (dual-class voting structure) behind the $17B settlement. [child-safety-addiction-settlement]
+3. **aljazeera-social-media-addiction-cost.md** — Al Jazeera on the trial's financial exposure ($200B sought, $1.4T claimed potential) before settlement. [child-safety-addiction-settlement]
+4. **techcrunch-meta-ai-glasses-lawsuit.md** — TechCrunch on class action over Ray-Ban Meta smart glasses privacy/human review of footage. [ai-glasses-privacy-lawsuit]
+5. **petapixel-meta-ai-glasses-lawsuit.md** — PetaPixel follow-up on the same smart-glasses privacy lawsuit, more plaintiffs. [ai-glasses-privacy-lawsuit]
+6. **hrgrapevine-meta-ai-layoff-lawsuit.md** — HR Grapevine on 26 employees suing over AI-driven layoff selection allegedly discriminating against protected-leave/disability staff. [ai-layoff-discrimination-lawsuit]
+7. **business-humanrights-meta-ai-layoff-lawsuit.md** — Business & Human Rights Centre summary of the same AI layoff discrimination lawsuit. [ai-layoff-discrimination-lawsuit]
+8. **businessreport-sierra-club-hyperion-emissions.md** — Sierra Club challenge to Meta's Hyperion, LA data center air permit for undercounting emissions. [hyperion-data-center-emissions]
+9. **mediapost-meta-crypto-scams-lawsuit.md** — MediaPost on class action over Facebook/Instagram crypto scam ads. [scam-ads-fraud-epidemic]
+10. **siliconangle-reuters-meta-deceive-regulators.md** — SiliconANGLE on Reuters investigation into Meta's alleged "playbook" to mislead regulators on scam ads. [scam-ads-fraud-epidemic]
+11. **tradingstandards-meta-epidemic-of-fraud.md** — UK Chartered Trading Standards Institute statement calling for action on Meta's "epidemic of fraud." [scam-ads-fraud-epidemic]
+12. **euronews-instagram-encryption-removal.md** — Euronews on Meta ending end-to-end encryption for Instagram DMs (effective May 2026). [instagram-encryption-removal]
+13. **petapixel-meta-ai-image-feature-removed.md** — PetaPixel on Meta pulling its Muse Image AI feature after consent backlash. [ai-image-consent-feature]
+14. **theconversation-meta-controversial-content-monetization.md** — The Conversation on Meta monetizing extremist-linked Facebook accounts in Australia. [extremist-content-monetization]

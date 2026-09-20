@@ -1,0 +1,119 @@
+[
+  {
+    "url": "https://fortune.com/2026/09/10/a-string-of-controversies-hits-openai-anthropic/",
+    "title": "A string of controversies hits OpenAI, Anthropic",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/controversies-hit-openai-anthropic.md",
+    "source_file": "sources/controversies-hit-openai-anthropic.md"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Anthropic%E2%80%93United_States_Department_of_Defense_dispute",
+    "title": "Anthropic\u2013United States Department of Defense dispute",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/anthropic-dod-dispute.md",
+    "source_file": "sources/anthropic-dod-dispute.md"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+    "title": "Anthropic's landmark $1.5B copyright settlement is approved",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/copyright-settlement-1.5b-approved.md",
+    "source_file": "sources/copyright-settlement-1.5b-approved.md"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "title": "Sony Music and Warner sue Anthropic over copyright violations (\"brazen campaign\" of IP theft)",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/sony-warner-music-lawsuit.md",
+    "source_file": "sources/sony-warner-music-lawsuit.md"
+  },
+  {
+    "url": "https://ketanjoshi.co/2026/05/13/why-anthropics-ultra-dirty-deal-shouldnt-surprise-you-at-all/",
+    "title": "Why Anthropic's ultra-dirty deal shouldn't surprise you at all",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/colossus-dirty-energy-deal.md",
+    "source_file": "sources/colossus-dirty-energy-deal.md"
+  },
+  {
+    "url": "https://www.lpm.org/news/2026-08-18/developer-says-ky-data-center-with-anthropic-ties-meets-new-limits-on-environmental-energy-impact",
+    "title": "Developer says KY data center with Anthropic ties meets new limits on environmental, energy impact",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/kentucky-data-center-environmental.md",
+    "source_file": "sources/kentucky-data-center-environmental.md"
+  },
+  {
+    "url": "https://www.esgdive.com/news/anthropic-researchers-resignation-highlights-governance-concerns-for-ai-fi/830192/",
+    "title": "Anthropic Researcher's Resignation Highlights AI Governance Concerns",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/researcher-resignation-governance-esgdive.md",
+    "source_file": "sources/researcher-resignation-governance-esgdive.md"
+  },
+  {
+    "url": "https://www.nbcnews.com/tech/tech-news/anthropic-safety-researcher-resigned-warning-rapid-ai-development-gamb-rcna596767",
+    "title": "An Anthropic safety researcher resigned with a warning about AI to co-workers on Slack",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/coxon-resignation-nbc.md",
+    "source_file": "sources/coxon-resignation-nbc.md"
+  },
+  {
+    "url": "https://time.com/article/2026/07/16/anthropic-ai-marketing-advertisement/",
+    "title": "The Backlash to Anthropic's Ad Misses Something Bigger",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/anthropic-ad-backlash-time.md",
+    "source_file": "sources/anthropic-ad-backlash-time.md"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
+    "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/claude-unauthorized-access-fourth-incident.md",
+    "source_file": "sources/claude-unauthorized-access-fourth-incident.md"
+  },
+  {
+    "url": "https://www.courthousenews.com/reddit-privacy-case-against-anthropic-kicked-back-to-state-court/",
+    "title": "Reddit privacy case against Anthropic kicked back to state court",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/reddit-anthropic-scraping-lawsuit.md",
+    "source_file": "sources/reddit-anthropic-scraping-lawsuit.md"
+  },
+  {
+    "url": "https://abc7news.com/post/anthropic-ai-hack-martinez-california-man-says-fraudulent-charges-racked-euros-claude-account/19366402/",
+    "title": "Martinez man says his AI was hacked as fraudulent charges racked up in euros on Claude account",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/claude-account-fraudulent-charges-abc7.md",
+    "source_file": "sources/claude-account-fraudulent-charges-abc7.md"
+  },
+  {
+    "url": "https://www.cp24.com/news/world/2026/09/19/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown/",
+    "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/ai-slowdown-antitrust-lawsuit.md",
+    "source_file": "sources/ai-slowdown-antitrust-lawsuit.md"
+  }
+]

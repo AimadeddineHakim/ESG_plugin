@@ -1,0 +1,26 @@
+---
+title: Reuters' investigation claims Meta tried to deceive regulators over fake ads - SiliconANGLE
+url: https://siliconangle.com/2026/01/01/reuters-investigation-claims-meta-tried-deceive-regulators-fake-ads/
+fetched: 2026-09-20
+scraper: requests+trafilatura
+---
+
+Reuters’ investigation claims Meta tried to deceive regulators over fake ads
+Fearing billions of dollars in lost revenue, Meta Platforms Inc. reportedly developed an internal “playbook” aimed at sidestepping pressure from regulators to crack down on scam advertising on its Facebook and Instagram platforms.
+A special report by Reuters published Wednesday cited internal company documents that show how it adopted tactics that made it much more difficult for regulators to find scammy ads on its platforms. At the same time, it resisted implementing universal advertiser verification measures that could reduce scams, over fears that they would also impact its revenue.
+Reuters said the documents it collected were drawn from Meta’s finance, legal, public policy and safety teams over a four-year period. They detail how the social media giant responded to growing regulatory scrutiny over fraudulent ads from governments around the world.
+Instead of trying to combat the fake ad problem, Meta reportedly tried to hide it from regulators in a number of ways. One of the main tactics it employed involved its public Ad Library, which is a searchable database that aims to promote transparency in its ad platform. The library is often used by regulatory bodies to try and locate fraudulent ads, Reuters explained, but Meta was one step ahead. After identifying the keywords used by regulators to search the library, it ran them repeatedly to remove any ads flagged as fraudulent. This reduced the number of problematic ads appearing in search results, despite barely making a dent on the number of scammy ads overall, Reuters said.
+Sandeep Abraham, a cybersecurity consultant who previously served as a fraud investigator at Meta, labeled the strategy as “regulatory theatre” that distorted the purpose of the Ad Library. A spokesperson for Meta rejected that characterization, and said any removal of scam ads from its search results were linked to genuine enforcement efforts by its internal ad fraud teams.
+According to Reuters, Meta initially deployed the strategy in Japan at a time when authorities were mulling the implementation of advertiser verification rules. At the time, Japan had seen a surge of advertisements for fake investment schemes using artificial intelligence-generated celebrity endorsements, Reuters said. But after cleaning up its library, the verification rules were not imposed. Following that episode, Meta then created what the internal documents describe as a “global playbook” for hiding fake ads and applied the same strategy in the U.S., Europe, India, Australia and Brazil.
+The documents also reveal the reason for Meta’s alleged actions. According to Meta’s analyses, though universal advertiser verification would likely reduce the number of fake ads significantly, it would also cost about $2 billion to implement and reduce its revenue by up to 4.8%.
+Instead of risking revenue losses, the report said, Meta instead adopted a “reactive” approach to removing fake ads, and only introduced advertiser verification in markets where it was legally obliged to do so, such as Singapore and Taiwan. Reuters cited Taiwanese officials as saying that scam ads on Facebook and other platforms dropped significantly once it mandated advertiser verification.
+Reuters said an earlier investigation revealed that ads considered by Meta to be “high risk” generate the company up to $7 billion in revenue annually, which would explain its reluctance to introduce verification rules. In the wake of those earlier investigations, Meta was slapped with a lawsuit by the U.S. Virgin Islands that accuses it of profiting from ad scams.
+Meanwhile, European regulators have also requested more details from Meta about the way it handles scam ads. A spokesperson for the European Commission told Reuters that it has “doubts about compliance.”
+Photo: Unsplash
+A message from John Furrier, co-founder of SiliconANGLE:
+Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE’s Alumni Trust Network, where technology leaders connect, share intelligence and create opportunities.
+- 15M+ viewers of theCUBE videos, powering conversations across AI, cloud, cybersecurity and more
+- 11.4k+ theCUBE alumni — Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network
+Are you an AWS customer? Support SiliconANGLE financially by buying your AWS services from our Marketplace portal page and links: https://siliconangle.com/aws-marketplace/
+About SiliconANGLE Media
+Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.

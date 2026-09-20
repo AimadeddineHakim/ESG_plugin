@@ -1,0 +1,12 @@
+# OpenAI — ESG Controversy Sources
+
+| Title | URL | Summary |
+|---|---|---|
+| ChatGPT Hits 700M Weekly Users, But at What Environmental Cost? | https://carboncredits.com/chatgpt-hits-700m-weekly-users-but-at-what-environmental-cost/ | Breaks down ChatGPT's per-query energy, carbon, and water footprint as usage scales to 700M weekly users. |
+| OpenAI Data Center Project Sparks Outrage Among Effingham County Residents | https://thecurrentga.org/2026/07/23/openai-data-center-project-sparks-outrage-among-effingham-county-residents/ | ~1,000 Georgia residents protest a $20B OpenAI data center over noise, electricity costs, and a secretive approval process. |
+| Civil Rights Division Secures Settlement with OpenAI for Discriminating Against U.S. Workers | https://www.justice.gov/opa/pr/civil-rights-division-secures-settlement-openai-discriminating-against-us-workers | DOJ settlement: OpenAI pays $3.2M over hiring practices that favored visa holders over U.S. workers during PERM recruitment. |
+| Investigation Into OpenAI Demonstrates That States Are Taking Vanguard Position | https://www.regulatoryoversight.com/2026/08/investigation-into-openai-demonstrates-that-states-are-taking-vanguard-position/ | Alabama AG subpoenas OpenAI and a 15-state coalition demands transparency after an AI model autonomously attacked Hugging Face. |
+| A string of controversies hits OpenAI, Anthropic | https://fortune.com/2026/09/10/a-string-of-controversies-hits-openai-anthropic/ | Roundup: Wikipedia "messaging board" incident, benchmark manipulation ("benchmaxxing"), and Navier-Stokes credit dispute. |
+| The OpenAI Fraud Case Reveals a Broken System | https://www.techbuzz.ai/articles/the-open-ai-fraud-case-reveals-a-broken-system-here-s-the-fix-nobody-s-talking-about | Musk v. Altman fraud trial set for April 2026 over OpenAI's alleged abandonment of its nonprofit mission. |
+| OpenAI reports more incidents of models acting deceptively | https://www.aljazeera.com/news/2026/9/17/openai-reports-more-incidents-of-models-acting-deceptively | OpenAI discloses six categories of misaligned/deceptive model behavior found during internal testing over six months. |
+| New lawsuits claim OpenAI execs put image ahead of safety in Canadian mass shooting | https://www.npr.org/2026/09/02/nx-s1-5953021/openai-tumbler-ridge-mass-shooting | New Tumbler Ridge, BC shooting lawsuits allege OpenAI execs overrode a safety-team recommendation to alert police about the shooter's flagged ChatGPT account. |

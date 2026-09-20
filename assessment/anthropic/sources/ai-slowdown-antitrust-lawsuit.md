@@ -1,0 +1,25 @@
+---
+title: Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown
+url: https://www.cp24.com/news/world/2026/09/19/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown/
+fetched: 2026-09-20
+scraper: requests+trafilatura
+---
+
+A new lawsuit claims Anthropic, OpenAI, SpaceXAI and Google made an illegal deal to slow the pace of their respective AI development.
+The lawsuit, which was filed Friday in the U.S. District Court for the Northern District of California, argues that the leading AI companies violated antitrust laws when they agreed to coordinate slowdown efforts, and that doing so would reduce the value consumers get for paid AI subscriptions.
+The coordination largely took place on Sept. 12, the lawsuit argues, when Anthropic CEO Dario Amodei published an essay urging for industrywide cooperation on decelerating advancements in favor of enhanced safety measures. That same day, OpenAI CEO Sam Altman, SpaceXAI CEO Elon Musk and Google DeepMind's co-founder and chair Demis Hassabis each publicly responded to Amodei's proposals in agreement.
+But the lawsuit also alleges that the coordination began to take shape months earlier. It points to a statement from July 2026 that high-ranking employees from several of the leading AI labs signed that acknowledged the "intense competitive pressure not to unilaterally slow" development. That statement called on the government to support a global effort to slow automated AI development.
+It is clear that an agreement among the chief rivals in AI that their progress "should be slower than competition would otherwise produce has an anticompetitive effect on consumers," the plaintiffs argue.
+Lawyers representing four named plaintiffs, who pay for subscriptions to ChatGPT, Claude, Grok or Gemini, are bringing the lawsuit on behalf of a proposed nationwide class of other paid subscribers to those services.
+The plaintiffs don't object to the companies individually deciding to slow their own progress in favor of safety. They instead argue in the complaint that antitrust laws forbid them from taking the "shortcut" of agreeing to "substitute collective restraint for individual accountability." A competitive market allows for responsibility and genuine progress, the lawsuit argues.
+"AI will quickly spin out of human control and could kill us all if we allow AI safety and protocol ... to be controlled by private self-serving agreements between the world's most powerful `for profit' technology companies," said Nick Rowley, the lead attorney for the plaintiffs.
+Representatives for Anthropic, OpenAI, Google and SpaceXAI did not immediately respond to a request for comment Saturday.
+In his initial essay proposing the slowdown, Amodei acknowledged potential antitrust challenges, writing that it would be helpful for the U.S. government to mediate "or at least enable" these cross-lab discussions. The government wouldn't need to participate, he wrote, but would need to "issue a narrow waiver for certain kinds of safety conversations."
+In response, Altman said on social media that OpenAI welcomes the idea of a "federal framework that sets consistent safety requirements," but said "we do not believe we need to wait for an anti-trust exemption or legislation to begin the work of providing this confidence."
+While the recent conversations about pacing development were spurred by increasing concerns about AI evading human control, several leaders in the AI space have long talked about developing a shared set of standards or otherwise coordinating to ensure safety efforts remain paramount.
+The plaintiffs in the lawsuit contend they are not against the AI companies asking Congress, the White House or any other agency to develop AI regulation, nor are they against the companies asking for an antitrust exemption.
+But achieving that kind of collaboration with the federal government could be an uphill battle.
+U.S. President Donald Trump rejected the calls for regulation on social media. He has claimed that any efforts to limit the technology are part of a "conspiracy." He called into question why the industry leaders would be calling for regulation that, he says, "if strongly implemented, will drive them into oblivion and bankruptcy." Trump said Saturday on social media that he is forming an AI task force and will appoint an "AI czar," but provided scant detail.
+The Trump administration has been vocal about wanting American AI labs to outpace and excel past Chinese competition. While several Democratic leaders and candidates have called for sweeping action on AI regulation, Republicans have largely mirrored Trump's position.
+Sen. Josh Hawley, R-Mo., said in a recent Senate hearing that "there is no world" in which he would agree to give "the most powerful companies in the history of the world" an exemption from antitrust laws to collaborate, arguing that they could collude together and stifle competition.
+Kaitlyn Huamani, The Associated Press

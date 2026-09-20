@@ -1,0 +1,128 @@
+[
+  {
+    "url": "https://www.npr.org/2026/08/27/nx-s1-5945278/meta-settlement-child-safety-big-tech",
+    "title": "Why Meta's settlement could be an 'inflection point' for reining in Big Tech",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/npr-meta-settlement-inflection-point.md",
+    "source_file": "sources/why-meta-s-settlement-could-be-an-inflection-point-for-reining-in-big-tech.md"
+  },
+  {
+    "url": "https://fortune.com/2026/09/12/zuckerberg-meta-17-billion-settlement-hubris-flawed-system/",
+    "title": "A flawed system and one man's hubris cost Meta shareholders $17 billion",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/fortune-zuckerberg-hubris-settlement.md",
+    "source_file": "sources/a-flawed-system-and-one-man-s-hubris-cost-meta-shareholders-17-billion.md"
+  },
+  {
+    "url": "https://www.aljazeera.com/economy/2026/8/19/what-the-social-media-addiction-lawsuit-could-cost-meta",
+    "title": "What the social media addiction lawsuit could cost Meta",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/aljazeera-social-media-addiction-cost.md",
+    "source_file": "sources/what-the-social-media-addiction-lawsuit-could-cost-meta.md"
+  },
+  {
+    "url": "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/",
+    "title": "Meta sued over AI smart glasses' privacy concerns, after workers reviewed nudity, sex, and other footage",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/techcrunch-meta-ai-glasses-lawsuit.md",
+    "source_file": "sources/meta-sued-over-ai-smart-glasses-privacy-concerns-after-workers-reviewed-nudity-s.md"
+  },
+  {
+    "url": "https://petapixel.com/2026/03/09/meta-sued-after-workers-watched-private-moments-recorded-on-ai-smart-glasses/",
+    "title": "Meta Sued After Workers Watched Private Moments Recorded on AI Smart Glasses",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/petapixel-meta-ai-glasses-lawsuit.md",
+    "source_file": "sources/meta-sued-after-workers-watched-private-moments-recorded-on-ai-smart-glasses.md"
+  },
+  {
+    "url": "https://www.hrgrapevine.com/us/content/article/2026-07-15-meta-sued-over-alleged-use-of-discriminatory-ai-tools-during-layoffs",
+    "title": "Meta sued over alleged use of discriminatory AI tools during layoffs",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/hrgrapevine-meta-ai-layoff-lawsuit.md",
+    "source_file": "sources/meta-sued-over-alleged-use-of-discriminatory-ai-tools-during-layoffs.md"
+  },
+  {
+    "url": "https://www.business-humanrights.org/en/latest-news/usa-26-meta-workers-file-lawsuit-alleging-ai-based-layoff-process-disproportionately-affected-employees-on-protected-leave-or-with-disability-accommodations/",
+    "title": "USA: 26 Meta workers file lawsuit alleging AI-based layoff process disproportionately affected employees on protected leave or with disability accommodations",
+    "status": "failed",
+    "scraper": null,
+    "error": "requests+trafilatura: 403 Client Error: Forbidden for url: https://www.business-humanrights.org/en/latest-news/usa-26-meta-workers-file-lawsuit-alleging-ai-based-layoff-process-disproportionately-affected-employees-on-protected-leave-or-with-disability-accommodations/; jina_reader: 403 Client Error: Forbidden for url: https://r.jina.ai/https://www.business-humanrights.org/en/latest-news/usa-26-meta-workers-file-lawsuit-alleging-ai-based-layoff-process-disproportionately-affected-employees-on-protected-leave-or-with-disability-accommodations/",
+    "report_file": "reports/business-humanrights-meta-ai-layoff-lawsuit.md",
+    "source_file": null
+  },
+  {
+    "url": "https://www.businessreport.com/article/sierra-club-meta-is-underestimating-emissions-from-its-hyperion-data-center",
+    "title": "Sierra Club: Meta is underestimating emissions from its Hyperion data center",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/businessreport-sierra-club-hyperion-emissions.md",
+    "source_file": "sources/sierra-club-meta-is-underestimating-emissions-from-its-hyperion-data-center.md"
+  },
+  {
+    "url": "https://www.mediapost.com/publications/article/417725/meta-sued-over-crypto-scams.html",
+    "title": "Meta Sued Over Crypto Scams",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/mediapost-meta-crypto-scams-lawsuit.md",
+    "source_file": "sources/meta-sued-over-crypto-scams.md"
+  },
+  {
+    "url": "https://siliconangle.com/2026/01/01/reuters-investigation-claims-meta-tried-deceive-regulators-fake-ads/",
+    "title": "Reuters' investigation claims Meta tried to deceive regulators over fake ads",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/siliconangle-reuters-meta-deceive-regulators.md",
+    "source_file": "sources/reuters-investigation-claims-meta-tried-to-deceive-regulators-over-fake-ads.md"
+  },
+  {
+    "url": "https://www.tradingstandards.uk/news-policy-campaigns/news-room/2026/government-must-take-action-on-meta-s-epidemic-of-fraud-says-trading-standards/",
+    "title": "Government must take action on Meta's 'epidemic of fraud', says Trading Standards",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/tradingstandards-meta-epidemic-of-fraud.md",
+    "source_file": "sources/government-must-take-action-on-meta-s-epidemic-of-fraud-says-trading-standards.md"
+  },
+  {
+    "url": "https://www.euronews.com/next/2026/03/18/private-instagram-messages-will-no-longer-be-encrypted-meta-says",
+    "title": "Private Instagram messages will no longer be encrypted, Meta says",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/euronews-instagram-encryption-removal.md",
+    "source_file": "sources/private-instagram-messages-will-no-longer-be-encrypted-meta-says.md"
+  },
+  {
+    "url": "https://petapixel.com/2026/07/10/meta-removes-ai-image-generation-feature-that-used-public-instagram-posts-following-user-backlash/",
+    "title": "Meta Removes AI Image Generation Feature That Used Public Instagram Posts Following User Backlash",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/petapixel-meta-ai-image-feature-removed.md",
+    "source_file": "sources/meta-removes-ai-image-generation-feature-that-used-public-instagram-posts-follow.md"
+  },
+  {
+    "url": "https://theconversation.com/why-meta-is-paying-for-controversial-content-and-what-that-means-for-the-posts-you-see-289603",
+    "title": "Why Meta is paying for controversial content \u2013 and what that means for the posts you see",
+    "status": "success",
+    "scraper": "requests+trafilatura",
+    "error": null,
+    "report_file": "reports/theconversation-meta-controversial-content-monetization.md",
+    "source_file": "sources/why-meta-is-paying-for-controversial-content-and-what-that-means-for-the-posts-y.md"
+  }
+]
