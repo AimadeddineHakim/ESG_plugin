@@ -1,6 +1,6 @@
 ---
 name: esg-research-scope
-description: Use this skill before esg-deep-research, when the user's request needs to be turned into a precise research scope — e.g. "research ESG controversies for Anthropic in 2026", "look at OpenAI and Google since June 2025", "find recent Tesla governance issues". Parses the request to determine, with precision, which company or companies are meant and what date range (start/end) the research should cover, then scaffolds assessment/<company-slug>/{reports,sources}/ and writes context.json for each. Asks the user to confirm if a company name is ambiguous or unclear — never guesses. Does not itself search the web or save sources — that's esg-deep-research's job, run as a separate step afterward.
+description: Use this skill before esg-deep-research, when the user's request needs to be turned into a precise research scope — e.g. "research ESG controversies for Anthropic in 2026", "look at OpenAI and Google since June 2025", "find recent Tesla governance issues". Parses the request to determine, with precision, which company or companies are meant and what date range (start/end) the research should cover, then scaffolds assessment/<company-slug>/{reports,sources,history,scored-text}/ and writes context.json for each. Asks the user to confirm if a company name is ambiguous or unclear — never guesses. Does not itself search the web or save sources — that's esg-deep-research's job, run as a separate step afterward.
 allowed-tools: Write, Bash(mkdir -p assessment/*)
 ---
 
@@ -32,7 +32,7 @@ If the resolved range is a guess based on a vague phrase (e.g. "recently"), note
 
 For each identified company:
 
-1. `mkdir -p assessment/<company-slug>/reports assessment/<company-slug>/sources` — creates both folders `esg-deep-research` and `esg-url-scraper` write into. `mkdir -p` is idempotent, so this is safe to re-run even if the company already has an assessment folder.
+1. `mkdir -p assessment/<company-slug>/reports assessment/<company-slug>/sources assessment/<company-slug>/history assessment/<company-slug>/scored-text` — creates all four folders the pipeline writes into: `reports/` (`esg-deep-research`), `sources/` (`esg-url-scraper`), `history/` (`esg-history-tracker`), and `scored-text/` (the per-controversy audit trail `esg-full-assessment` writes during scoring). `mkdir -p` is idempotent, so this is safe to re-run even if the company already has an assessment folder.
 2. `Write assessment/<company-slug>/context.json`:
 
    ```json
@@ -46,4 +46,4 @@ For each identified company:
 
 ## Step 4 — Report back
 
-For each company, tell the user: the resolved company name/slug, the resolved date range (or "unbounded" if both are null), and any assumption made when interpreting a vague date phrase. Confirm that `assessment/<company-slug>/reports/` and `assessment/<company-slug>/sources/` were created alongside `context.json`. Do not run `esg-deep-research` automatically — that's a separate, explicit next step.
+For each company, tell the user: the resolved company name/slug, the resolved date range (or "unbounded" if both are null), and any assumption made when interpreting a vague date phrase. Confirm that `assessment/<company-slug>/reports/`, `sources/`, `history/`, and `scored-text/` were created alongside `context.json`. Do not run `esg-deep-research` automatically — that's a separate, explicit next step.
