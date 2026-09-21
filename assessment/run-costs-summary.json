@@ -1,0 +1,29 @@
+{
+  "runs": {
+    "anthropic": {
+      "total_cost_usd": 4.4854,
+      "total_tokens": 12710386,
+      "wall_clock_ms": 582318
+    },
+    "openai": {
+      "total_cost_usd": 6.7664,
+      "total_tokens": 21180857,
+      "wall_clock_ms": 1172125
+    },
+    "meta": {
+      "total_cost_usd": 4.4939,
+      "total_tokens": 12421637,
+      "wall_clock_ms": 760584
+    }
+  },
+  "grand_total_cost_usd": 15.7457,
+  "grand_total_tokens": 46312880,
+  "pricing": {
+    "model": "claude-sonnet-5",
+    "input_per_mtok_usd": 2.0,
+    "output_per_mtok_usd": 10.0,
+    "cache_write_per_mtok_usd": 2.5,
+    "cache_read_per_mtok_usd": 0.2
+  },
+  "note": "Computed by summing the exact usage object (input_tokens, output_tokens, cache_read_input_tokens, cache_creation_input_tokens) reported on every assistant message across the run's own transcript plus any gap-fill sub-agent it spawned, then pricing each token type at Claude Sonnet 5's published per-token rate. Cache write/read rates use Anthropic's standard published ratios (1.25x and 0.1x of the base input rate) since the model card lists only base input/output pricing. This required reading this session's own subagent transcripts directly -- it is not something the shipped plugin computes on its own for other installs."
+}

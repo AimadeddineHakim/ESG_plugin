@@ -1,0 +1,43 @@
+{
+  "company": "anthropic",
+  "run_timestamp": "2026-09-21T00-00-00Z",
+  "wall_clock_ms": 582318,
+  "pricing": {
+    "model": "claude-sonnet-5",
+    "input_per_mtok_usd": 2.0,
+    "output_per_mtok_usd": 10.0,
+    "cache_write_per_mtok_usd": 2.5,
+    "cache_read_per_mtok_usd": 0.2
+  },
+  "parent_agent": {
+    "usage": {
+      "input_tokens": 250,
+      "output_tokens": 57035,
+      "cache_read_input_tokens": 11898716,
+      "cache_creation_input_tokens": 532937,
+      "assistant_messages": 125
+    },
+    "cost_usd": 4.2829
+  },
+  "gap_fill_subagents": [
+    {
+      "usage": {
+        "input_tokens": 14,
+        "output_tokens": 1082,
+        "cache_read_input_tokens": 156188,
+        "cache_creation_input_tokens": 64164,
+        "assistant_messages": 7
+      },
+      "cost_usd": 0.2025
+    }
+  ],
+  "combined_usage": {
+    "input_tokens": 264,
+    "output_tokens": 58117,
+    "cache_read_input_tokens": 12054904,
+    "cache_creation_input_tokens": 597101,
+    "assistant_messages": 132
+  },
+  "total_cost_usd": 4.4854,
+  "note": "Computed by summing the exact usage object (input_tokens, output_tokens, cache_read_input_tokens, cache_creation_input_tokens) reported on every assistant message across the run's own transcript plus any gap-fill sub-agent it spawned, then pricing each token type at Claude Sonnet 5's published per-token rate. Cache write/read rates use Anthropic's standard published ratios (1.25x and 0.1x of the base input rate) since the model card lists only base input/output pricing. This required reading this session's own subagent transcripts directly -- it is not something the shipped plugin computes on its own for other installs."
+}
